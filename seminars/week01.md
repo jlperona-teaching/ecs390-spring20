@@ -31,6 +31,132 @@ So that you (hopefully) trust me and believe that I know what I'm doing, I'll go
 
 **Under construction.**
 
+### Patience
+
+Ask students to be patient
+
+### Acknowledgements
+
+Zee Chen, Aakash Prabhu, Eric Harrison, Nan Ma, James Jensen
+
+### Discussions
+
+#### License
+
+ucdaviscoe.zoom.us
+Make sure you have your Zoom Pro license already by logging into Zoom
+If not, ask your instructor to contact COE to add you
+
+#### Setup
+
+Recurring meeting set up through Canvas (make sure it's visible on Canvas tab)
+Can also import
+Also consider enable ability for students to join before you do
+If another TA/instructor joins make them the co-host (have to enable co-host in settings)
+
+#### Audio
+
+Set option to mute everyone on coming in, make sure they can't unmute themselves in settings
+Disable screen sharing on discussions so that only you can screen share
+
+Other option is to allow students to unmute themselves and have them be honest about it
+**You as the host can always mute all**
+
+#### Recording
+
+Option to record automatically to cloud which syncs to Canvas
+Let students know lectures/discussions are being recorded (CA is 2-party consent, FERPA is a pain in the ass)
+
+#### Chat
+
+How to use this?
+Do we want to use this?
+Just depends, be consistent about it
+
+#### Answering Student Questions
+
+Have student raise hands for them to ask a question
+Person who raise hand moves up in participant list, first come first serve
+When they raise hand, unmute them. Notification pops up asking them to unmute so it doesn't come by surprise
+Once you've finished answering their questions, mute them again because you can't guarantee student mute themselves
+
+#### Screen Sharing
+
+Webcam is optional, your face will be put to side when presenting something else
+
+Writing? A couple of options
+iPhone/iPad AirPlay
+Share Screen button at bottom to select a window/screen
+When sharing, hit "New Share" to change windows/screens
+Might be useful to enable the annotate screen option (for yourself only)
+Zoom also has a whiteboard option
+
+#### Finish Meeting
+
+Make sure to end meeting for all once you leave unless a co-instructor is there
+
+### Office Hours
+
+#### License
+
+ucdaviscoe.zoom.us
+Make sure you have your Zoom Pro license already by logging into Zoom
+If not, ask your instructor to contact COE to add you
+
+#### Setup
+
+Recurring meeting set up through Canvas (make sure it's visible on Canvas tab)
+Also consider enabling ability for students to join before you do
+One-time meetings can be set up in same way without recurring
+If another TA/instructor joins make them the co-host (have to enable co-host in settings)
+
+#### Audio
+
+Set option to mute everyone on coming in, make sure they **can** unmute themselves in settings
+Disable screen sharing on discussions so that only you can screen share
+Enable breakout rooms in settings beforehand
+Automatically make a bunch of breakout rooms (like 50 or so) and make sure you assign manually
+
+#### Recording
+
+**Wouldn't** enable option to record automatically to cloud for this case
+Especially with personal stuff
+
+#### Screen Sharing
+
+Webcam is optional, your face will be put to side when presenting something else
+
+Writing? A couple of options
+iPhone/iPad AirPlay
+Share Screen button at bottom to select a window
+When sharing, hit "New Share" to change windows/screens
+Might be useful to enable the annotate screen option (for yourself only)
+Zoom also has a whiteboard option
+
+#### Answering Student Questions In A Group
+
+People can unmute themselves to talk
+Should be less structured and more self regulating
+You can enable the option to mute/hold/kick students who are being disruptive
+Good for just answering questions normally
+
+#### Answering Student Questions Privately
+
+Sharing solutions or other private information?
+You need to be main host
+Breakout rooms.
+Make more rooms than participants.
+Manually assign a student you want to talk to individually to breakout room to self and allow them to share screen for private stuff.
+You can leave to main session once student is done.
+
+Waiting list is another option if you want to answer everything privately
+
+#### Finish Meeting
+
+Make sure to end meeting for all once you leave unless a co-instructor is there
+
+### Resources
+
 [This website contains some useful information on online teaching..](https://sites.google.com/ucdavis.edu/ucdavis-psychology-plan-s2020/home)
 
 ## Assignment for This Week
