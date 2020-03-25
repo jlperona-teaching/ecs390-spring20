@@ -5,10 +5,13 @@ Author: Justin Perona
 # Week 1
 
 Welcome to ECS 390, The Teaching of Computer Science.
-I'll introduce myself, you'll introduce yourself to me and to other students, and I'll introduce the class.
-After that, we'll talk about how to get started with online teaching.
+**Under construction.**
 
 Some of the content for this week was derived from the [*MaGE* Resources](https://sites.google.com/mtholyoke.edu/mage-training-curriculum/home) provided by the *MaGE* Program.
+
+## Technology Rehearsal [15 min]
+
+**Under construction.**
 
 ## Introductions [15 min]
 
@@ -27,17 +30,26 @@ So that you (hopefully) trust me and believe that I know what I'm doing, I'll go
 
 **Under construction.**
 
-## Getting Started with Online Teaching [35 min]
+## Getting Started with Online Teaching [20 min]
 
 **Under construction.**
 
 ### Patience
 
-Ask students to be patient
+Ask students to be patient during this transition period.
 
 ### Acknowledgements
 
-Zee Chen, Aakash Prabhu, Eric Harrison, Nan Ma, James Jensen
+Thanks to the following people for giving feedback on this portion of the document:
+
+* Zee Chen
+* Aakash Prabhu
+* Eric Harrison
+
+Thanks to the following people for helping us test out some features of Zoom:
+
+* Nan Ma
+* James Jensen
 
 ### Discussions
 
@@ -155,9 +167,9 @@ Waiting list is another option if you want to answer everything privately
 
 Make sure to end meeting for all once you leave unless a co-instructor is there
 
-### Resources
+### Other Resources
 
-[This website contains some useful information on online teaching..](https://sites.google.com/ucdavis.edu/ucdavis-psychology-plan-s2020/home)
+[This website contains some useful information on online teaching.](https://sites.google.com/ucdavis.edu/ucdavis-psychology-plan-s2020/home)
 
 ## Assignment for This Week
 

@@ -4,9 +4,7 @@ Author: Justin Perona
 
 # Week 2
 
-This week, we'll talk about the different *hats* that TAs wear.
-The focus is on your responsibilities as a TA.
-We'll discuss some guidelines and responsibilities for being a TA in CS at UC Davis.
+**Under construction.**
 
 ## Class Guidelines and Expectations [25 min]
 

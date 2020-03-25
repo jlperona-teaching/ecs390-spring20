@@ -7,7 +7,7 @@ Author: Justin Perona
 This week's focus is on your responsibilities as a TA.
 We'll discuss some guidelines and responsibilities for being a TA in CS at UC Davis.
 
-## Teaching Assistant Guidelines and Responsibilities [30 min]
+## Teaching Assistant Guidelines and Responsibilities [50 min]
 
 *Guidance for teaching CS at UC Davis.*
 

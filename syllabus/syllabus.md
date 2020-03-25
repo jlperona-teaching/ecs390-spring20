@@ -40,7 +40,9 @@ See the LICENSE file for more information.
 
 ### Seminars
 
-*Monday*: 16:10 - 17:00, 108 Hoagland
+*Tuesday*: 16:10 - 17:00, online via Zoom
+
+Check [Canvas](https://canvas.ucdavis.edu/courses/461800/external_tools/7164) for a link to each week's Zoom meeting.
 
 ### Instructor
 
@@ -48,14 +50,14 @@ See the LICENSE file for more information.
 
 Emails to me about the course must have the tag **[ECS 390]** (including the brackets) in the title.
 
-Office hours by appointment only.
+Office hours by online appointment only.
 Email me to schedule an appointment.
 
 ## About the Course
 
 ### Curriculum
 
-This is the third time that I've taught this class.
+This is the fourth time that I've taught this class.
 The first time, the course was designed towards getting new instructors practical teaching experience.
 However, I found that instructors that already had prior teaching experience didn't find the course particularly useful for them.
 
