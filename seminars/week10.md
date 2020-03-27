@@ -84,9 +84,6 @@ Feel free to email me in the future if you'd like to talk or want me to point yo
 There are two sets of feedback to fill out to finish off the class.
 Only one of them is going to be graded, though.
 
-*Note that the homework for this week is due on Friday at 23:59.*
-It's due before the start of finals so I can finalize the grades as quickly as possible.
-
 #### Giving Good Feedback
 
 In the spirit of this class being about improving your teaching ability, here's some resources about feedback from the [Students Assessing Teaching And Learning (SATAL) Program](https://cetl.ucmerced.edu/satal) from UC Merced.

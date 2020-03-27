@@ -1,22 +1,25 @@
 ---
 Author: Justin Perona
+Copyright: © 2020 Justin Perona
+License: CC BY-NC 4.0
 ---
 
-# ECS 390 - The Teaching of Computer Science
+# ECS 390 - The Teaching of Computer Science (online edition)
 
 Inspiration for this course was drawn from the following people or programs:
 
-* *Jason Lowe-Power* of UC Davis for the layout of the course
+* [*Jason Lowe-Power*](https://faculty.engineering.ucdavis.edu/lowepower/) of UC Davis for the layout of the course
 * *Sean Davis* of UC Davis for some of the course content
-* the *MaGE* program at Mount Holyoke College for some of the course content
+* [*the MaGE program*](https://sites.google.com/a/mtholyoke.edu/mage-training/) at [Mount Holyoke College](https://www.mtholyoke.edu/) for some of the course content
 
-Content is licensed under CC BY 4.0.
-See the LICENSE file for more information.
+Content is licensed under CC BY-NC 4.0.
+See the [LICENSE](https://github.com/jlperona-teaching/ecs390-spring20/blob/master/LICENSE) file for more information.
 
 ## Table of Contents
 
 * [Class and People](#class-and-people)
     * [Seminars](#seminars)
+    * [Required Technology](#required-technology)
     * [Instructor](#instructor)
 * [About the Course](#about-the-course)
     * [Curriculum](#curriculum)
@@ -25,24 +28,36 @@ See the LICENSE file for more information.
     * [Academic Misconduct](#academic-misconduct)
     * [Student Support](#student-support)    
 * [Websites](#websites)
+    * [Zoom](#zoom)
     * [GitHub](#github)
     * [Canvas](#canvas)
 * [Coursework](#coursework)
     * [Grading](#grading)
     * [Attendance](#attendance)
     * [Weekly Assignments](#weekly-assignments)
-    * [Track Assignment](#track-assignment)
-        * [Track A - Discussion Observations](#track-a---discussion-observations)
-        * [Track B - CEE Workshop Attendance](#track-b---cee-workshop-attendance)
+    * [Term Project](#term-project)
 * [Schedule](#schedule)
 
 ## Class and People
 
 ### Seminars
 
-*Tuesday*: 16:10 - 17:00, online via Zoom
+*Tuesdays*: 16:10 - 17:00, online via Zoom
 
-Check [Canvas](https://canvas.ucdavis.edu/courses/461800/external_tools/7164) for a link to each week's Zoom meeting.
+Check [the Zoom tab on Canvas](https://canvas.ucdavis.edu/courses/461800/external_tools/7164) for a link to each week's Zoom meeting.
+
+### Required Technology
+
+There's a couple of things that you'll need to participate in this class:
+
+* a laptop or desktop with the ability to run Zoom (more on that below)
+* a microphone to participate in class discussions
+* the ability to share your screen on Zoom to present material
+
+You do not need a webcam for this course.
+I don't even have a webcam, and good ones have become ridiculously expensive due to the rise in people working from home.
+You do, however, need the ability to share your screen so that you can present off of it.
+This will necessitate a laptop or desktop.
 
 ### Instructor
 
@@ -57,7 +72,7 @@ Email me to schedule an appointment.
 
 ### Curriculum
 
-This is the fourth time that I've taught this class.
+This is the fourth (and most likely last) time that I've taught this class.
 The first time, the course was designed towards getting new instructors practical teaching experience.
 However, I found that instructors that already had prior teaching experience didn't find the course particularly useful for them.
 
@@ -71,9 +86,12 @@ As they state on their website, *MaGE* is designed to:
 The intent behind using their curriculum was to make the course more useful for students who already have teaching experience.
 However, this was somewhat *too* high-level for instructors who had no teaching experience.
 
-Thus, this third iteration of the class will blend the two together.
-We will focus on practical teaching experience in the first half of the class, then move on to some of the more important topics in the *MaGE* curriculum in the latter half.
-My hope that this course will prove useful to instructors across the spectrum of prior teaching experience.
+The third iteration of the class blended the two together.
+I focused on practical teaching experience in the first half of the class, then moved on to some of the more important topics in the *MaGE* curriculum in the latter half.
+My hope was that the course would prove useful to instructors across the spectrum of prior teaching experience.
+
+This fourth iteration follows the third in its goals.
+However, given what's currently happening in the world and here at UC Davis, there will be a bigger focus on online teaching.
 
 ### Official Description
 
@@ -105,64 +123,96 @@ This can result in a 0 on the assignment or a U in the class.
 
 ### Student Support
 
-As a student you may experience a range of issues that can cause barriers to learning, such as strained relationships, increased anxiety, alcohol/drug problems, feeling down, difficulty concentrating and/or lack of motivation.
+As a student, you may experience a range of issues that can cause barriers to learning, such as but not limited to:
+
+* strained relationships
+* increased anxiety
+* alcohol/drug problems
+* feeling down
+* difficulty concentrating
+* lack of motivation
+
 These mental health concerns or stressful events may lead to diminished academic performance or reduce a student’s ability to participate in daily activities.
+
 UC Davis is committed to advancing the mental health and well-being of its students.
 If you or someone you know is feeling overwhelmed, depressed, and/or in need of support, services are available.
 You can learn more about the broad range of confidential mental health services available on campus via [Student Health and Counseling Services](https://shcs.ucdavis.edu/).
-In addition, you can learn about a variety of other resources for students at UC Davis on the [Pages tab of Canvas](https://canvas.ucdavis.edu/courses/369850/wiki).
+In addition, you can learn about a variety of other resources for students at UC Davis on the [Pages tab of Canvas](https://canvas.ucdavis.edu/courses/461800/wiki).
 
 You can also contact myself to talk in private.
 My email is listed [above](#instructor).
 
 ## Websites
 
+### Zoom
+
+Zoom will serve as our platform for the seminars.
+Check [the Zoom tab on Canvas](https://canvas.ucdavis.edu/courses/461800/external_tools/7164) for a link to each week's Zoom meeting.
+
+Note that due to the discussion-based participatory nature of this class, I will *not* be recording the seminars.
+Recording these seminars would be allowed with prior notice [according to campus counsel](https://keepteaching.ucdavis.edu/teach).
+That said, we will be discussing some sensitive topics, and I don't want anyone's exact words to be used against them later.
+As [Kathy Obear](https://drkathyobear.com/) mentions in her *Suggested List of Learning Guidelines*:
+
+> The wisdom you get from this class can leave the room, but people's words stay here.
+
 ### GitHub
 
-GitHub will serve as the open-source repository for some of the course content, including the syllabus (this document), the schedule, any presentation notes I post, and the layout for each week's class.
+**GitHub**, which you're currently on, will serve as the open-source repository for some of the course content.
+This includes:
+
+* the syllabus (this document)
+* the schedule
+* any presentation notes I post
+* the seminar notes for each week's class
 
 I'm a big fan of making things open-source wherever possible, hence this repository.
-My GitHub repository for [ECS 154A SS2 2018](https://github.com/jlperona-teaching/ecs154a-ssii18), a class I taught previously, is a good past example of that.
+My GitHub repository for [ECS 154A WQ 2020](https://github.com/jlperona-teaching/ecs154a-winter20), and other classes I've taught previously, are good examples of that.
 
 ### Canvas
 
-[Canvas](https://canvas.ucdavis.edu/courses/369850) will serve as the discussion board for the class, as well as where you'll submit your assignments and get back your grades.
+[Canvas](https://canvas.ucdavis.edu/courses/461800) will serve as the discussion board for the class, as well as where you'll submit your assignments and get back your grades.
 
-Feel free to post questions on the [Discussions tab](https://canvas.ucdavis.edu/courses/369850/discussion_topics) of Canvas.
-I'll make any announcements on the [Announcements tab](https://canvas.ucdavis.edu/courses/369850/announcements).
+Feel free to post questions on the [Discussions tab](https://canvas.ucdavis.edu/courses/461800/discussion_topics) of Canvas.
+I'll make any announcements on the [Announcements tab](https://canvas.ucdavis.edu/courses/461800/announcements).
 
 ## Coursework
 
 ### Grading
 
 The course is graded on a Satisfactory / Unsatisfactory (S/U) basis.
-There are 30 points possible, described in more detail in the sections below.
-You need at least 80% of the points possible to get an S, as is typical of S/U classes at UC Davis, which means you can miss 6 points.
+There are 100 points possible, described in more detail in the sections below.
+You need at least 80% of the points possible to get an S, as is typical of S/U classes at UC Davis, which means you can miss 20 points.
 Thus, if you end up missing a class or assignment once, don't worry about it.
 
 A brief breakdown is below:
 
-| *Category*       | *Weight* | *Explanation*                           |
-|------------------|----------|-----------------------------------------|
-| Attendance       | 60%      | 9 seminars x 2 points each = 18 points  |
-| Assignments      | 30%      | 9 assignments x 1 point each = 9 points |
-| Track Assignment | 10%      | 3 points                                |
-| **Total**        | **100%** | **30 points**                           |
+| *Category*   | *Weight* | *Explanation*                                |
+|--------------|----------|----------------------------------------------|
+| Attendance   | 60%      | 10 seminars · 6 points each = 60 points      |
+| Assignments  | 25%      | 10 assignments · 2.5 points each = 25 points |
+| Term Project | 15%      | 15 points                                    |
+| **Total**    | **100%** | **100 points**                               |
 
 ### Attendance
 
 Attendance for each class is mandatory.
-Sign in sheets (or something similar) will be passed around in class each week.
-This will be a course heavily based on discussion, so to get the most out of the course, you'll need to attend most weeks.
+There will be some mechanism to record attendance during every seminar.
+This will usually involve filling out a Google Form; I will verify that against the list of participants inside each Zoom call.
+To get the most out of the course, you'll need to attend most weeks.
 Excusing attendance for a week requires a verifiable excuse (doctor's note, etc.).
 
-You get two points for each class you attend.
-There are 9 classes, so you get 18 points from attendance.
+If you are unable to attend the seminars at the posted time for whatever reason, *I highly encourage you to drop and take the class in the future instead*.
+You will not get nearly as much out of this class if you are unable to participate in it.
+If this poses a problem for you for whatever reason—you're graduating this quarter would be one example—please email me and we can discuss alternatives.
+
+You can get up to 6 points for each class you attend.
+There are 10 classes, thus you get 60 points from attendance.
 
 ### Weekly Assignments
 
 In addition to the attendance, there will usually be something that you need to submit on Canvas for that week as well.
-These are *usually* due at 15:00 on the following Monday, an hour before class, but check the due date carefully.
+These are *usually* due at 15:00 on the following Tuesday, an hour before class, but check the due date carefully.
 No late assignments will be accepted without a verifiable excuse (doctor's note, etc.).
 
 Assignments will revolve around the following:
@@ -171,48 +221,16 @@ Assignments will revolve around the following:
 * reading(s) for the following week
 * feedback on the course
 
-You get one point for each assignment.
-There are 9 assignments, so you get 9 points from assignments.
+You can get up to 2.5 points for each assignment.
+There are 10 assignments, thus you get 25 points from assignments.
 
-### Track Assignment
+### Term Project
 
-This is equivalent to the class project.
-There's two different tracks, depending on whether or not you'll be leading discussions this quarter or not.
-For discussion leaders, your assignment involves me observing one of your discussions.
-If you're not leading discussions, either because you're only grading or you're not a TA this quarter, then you're going to have an alternative assignment revolving around exposing you to something new in terms of teaching.
+**Under construction.**
 
-You get three points for your track assignment.
-You only need to do one of the two.
-
-#### Track A - Discussion Observations
-
-I will be observing one of your discussion sections sometime this quarter.
-You will submit a list of when and where your discussions are in [the first assignment](https://canvas.ucdavis.edu/courses/369850/assignments/372345).
-
-I will email you to confirm the date and time of one of your discussions.
-Once we've confirmed, I'll observe that discussion and give you feedback.
-You can see the style of feedback that I'll be giving in the `observations/` folder [here on GitHub](../observations).
-
-For the observation itself, you will start on time like normal.
-Five minutes before your discussion ends, I will ask you to leave the room, and I will take both positive feedback and constructive criticism from the class in the remaining five minutes.
-I'll send you the feedback from the class and myself through email sometime after the observation.
-
-#### Track B - CEE Workshop Attendance
-
-The [Center for Educational Effectiveness](https://cee.ucdavis.edu/) (or CEE) promotes and supports effective learning for all UC Davis students.
-You're probably already met them at TA orientation, if you've attended it.
-CEE holds workshops every quarter on a variety of topics to help you improve your teaching.
-This quarter's emphasis is on the foundations of teaching, which is perfect for first-time instructors.
-
-Your assignment will be to attend a CEE workshop, and write a short paragraph on what you learned there.
-The paragraph doesn't need to be very detailed, I'm just curious as to what you learned.
-You can view all the available workshops on [CEE's website](https://ucdavis.app.box.com/s/t8irmknay76fgg1azpha1urf761fqt60).
-Feel free to attend any one that strikes your fancy, though keep in mind some of the workshops are oriented towards faculty and not graduate students.
-
-Note that you need to register ahead of time on each event's page.
-When you submit your paragraph, also attach a screenshot of the registration confirmation email that you get from CEE.
+You can get up to 15 points for the term project.
 
 ## Schedule
 
-See the [official schedule](./schedule.csv) on GitHub for the course schedule.
+See the [official schedule](./schedule.csv) here on GitHub for the course schedule.
 For more details on what we're going to cover each week, see the [seminar notes](../seminars/README.md).

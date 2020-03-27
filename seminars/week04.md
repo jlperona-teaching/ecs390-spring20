@@ -41,29 +41,37 @@ There's plenty of them, but some of the ones I've heard of include:
 
 ## Assignment for This Week
 
-*Introducing the concept of Universal Design for Learning.*
+*Preparing for your small-group presentation next week.*
 
-### Reading
+### Background
 
-Read through *Universal Design: Implications for Computing Education* by Sheryl Burgstahler of the University of Washington, Seattle.
-This was originally published in *ACM Transactions on Computing Education* in 2011.
-You can find a PDF in the [Files section on Canvas](https://canvas.ucdavis.edu/files/6661078/download?download_frd=1).
-We will discuss the Universal Design for Learning (UDL) next week.
+Next week's class will involve you giving a five-minute presentation (along with time at the end to answer a question from everyone) in front of a group of four to five of your fellow students in the class.
+The topic is completely up to you, though I ask that you keep it appropriate for a classroom environment.
+The people in your group will be giving anonymous feedback about your presentation.
+You will in turn give anonymous feedback about the presentations of the members of your group.
 
-### Review
+If you remember from [last week's class](./week02.md), I said that I would spend two to three hours preparing for a single hour of lecture.
+Writing this document up was no exception.
+I'm not expecting you to spend two to three hours preparing for this presentation, but I am expecting you to put some time in to prepare beforehand.
 
-The review format is adapted from the format for the [paper reviews for ECS 201C](https://github.com/jlpteaching/ECS201C/blob/master/syllabus.md#paper-reviews) by Jason Lowe-Power.
+### Assignment
 
-Write a review of the reading above.
-Your review should contain two short paragraphs:
+In the spirit of the above, tell me the topic that you are planning on presenting.
+Submit your topic in the [assignment for this week on Canvas](https://canvas.ucdavis.edu/courses/369850/assignments/372348).
+This is all you need to submit on Canvas for this week.
 
-1. A short summary of the reading, and any key insights or implications.
-2. Your own thoughts about the reading. Anything that stood out or resonated with you, or a topic/question about it for next week.
+You will also need to put together slides.
+**Under construction.**
 
-Submit your review in the [assignment for this week on Canvas](https://canvas.ucdavis.edu/courses/369850/assignments/372349).
+Make sure you prepare for your presentation.
+The best way to do so is to practice by speaking out loud!
+I will sometimes do a practice presentation two or three times to work out all the kinks.
+*If it's clear from your group's feedback that you were not prepared to present, you may not receive credit for attendance next week.*
 
 ### Grading
 
-I'm looking to see if you read the paper.
-I am not going to grade this that harshly.
-That being said, if it's clear from your review that you didn't read the paper, you may not receive full credit.
+You will get credit for this week's assignment as long as you submit your topic by the due date.
+Regarding attendance for next week, you will get credit if you do the following:
+
+* make a good-faith effort on your presentation (as determined by your group's feedback).
+* turn in your filled-in feedback form (link distributed in class).

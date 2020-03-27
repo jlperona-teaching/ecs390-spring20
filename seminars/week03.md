@@ -34,41 +34,27 @@ Instead, we're going to go over points that I think are particularly important, 
 
 ## Assignment for This Week
 
-*Preparing for your small-group presentation next week.*
+*Tools and other technology to make your teaching more effective.*
 
-### Background
+### Reading
 
-Next week's class will involve you giving a five-minute presentation (along with time at the end to answer a question from everyone) in front of a group of four to five of your fellow students in the class.
-The topic is completely up to you, though I ask that you keep it appropriate for a classroom environment.
-The people in your group will be giving anonymous feedback about your presentation.
-You will in turn give anonymous feedback about the presentations of the members of your group.
-Note that you won't have a projector or a board to use, so you'll need to present without those things.
+Read through *Technology We Can't Live Without!, revisited* by Ria Galanos, Michael Ball, John Dougherty, Joe Hummel, and David J. Malan.
+This was originally published in the *ACM Technical Symposium on Computer Science Education* in 2018.
+You can find a PDF in the [Files section on Canvas](https://canvas.ucdavis.edu/files/6661077/download?download_frd=1).
+This is a short 2-page paper about tools used in computer science education.
+The presentation next week will talk about some tools in use at UC Davis, and we'll have a discussion if there's time.
 
-If you remember from [last week's class](./week02.md), I said that I would spend two to three hours preparing for a single hour of lecture.
-Writing this document up was no exception.
-I'm not expecting you to spend two to three hours preparing for this presentation, but I am expecting you to put some time in to prepare beforehand.
+### Questions
 
-### Assignment
+You don't need to write a formal review of the paper.
+Instead, answer the following three questions:
 
-In the spirit of the above, tell me the topic that you are planning on presenting.
-Submit your topic in the [assignment for this week on Canvas](https://canvas.ucdavis.edu/courses/369850/assignments/372348).
-This is all you need to submit on Canvas for this week.
+1. Have you used, or are currently using, any of the educational tools that the authors mentioned?
+2. Are there any tools on this list that you haven't used that may be useful to you in the future?
+3. Are there any tools *not* on this list that you think are worth mentioning?
 
-You will also need to put together a set of presentation notes or aids to help you present.
-I'm not mandating the style of notes that you put together.
-You can use bullet points, flash cards, lecture notes, or any other method that will help you present.
-*You do not need to submit these on Canvas for this week's assignment, but I will collect them after your presentation next week.*
-
-Make sure you prepare for your presentation.
-The best way to do so is to practice by speaking out loud!
-I will sometimes do a practice presentation two or three times to work out all the kinks.
-*If it's clear from your group's feedback that you were not prepared to present, you may not receive credit for attendance next week.*
+Submit your responses in the [assignment for this week on Canvas](https://canvas.ucdavis.edu/courses/356010/assignments/310492).
 
 ### Grading
 
-You will get credit for this week's assignment as long as you submit your topic by the due date.
-Regarding attendance for next week, you will get credit if you do the following:
-
-* make a good-faith effort on your presentation (as determined by your group's feedback).
-* turn in your filled-in feedback form (passed out in class next week).
-* turn in your presentation notes that you used for the presentation (make sure to write your name down on your notes).
+As long as you respond to the questions appropriately, you'll get credit.

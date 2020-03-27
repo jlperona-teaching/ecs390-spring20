@@ -147,11 +147,6 @@ If there's a lull, I'll ask the following, but we're not required to get to them
 
 *What constitutes good feedback?*
 
-### Logistics
-
-*Note*: there is no class next Monday, 2019-11-11, due to the Veterans Day holiday.
-You have two weeks to do this assignment, which is due on Monday, 2019-11-18 at 15:00.
-
 ### Reading
 
 Read through *Do students value feedback? Student perceptions of tutors’ written responses* by Melanie R. Weaver of Nottingham Trent University.
