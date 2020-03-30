@@ -36,6 +36,9 @@ See the [LICENSE](https://github.com/jlperona-teaching/ecs390-spring20/blob/mast
     * [Attendance](#attendance)
     * [Weekly Assignments](#weekly-assignments)
     * [Term Project](#term-project)
+        * [Background](#background)
+        * [Project Ideas](#project-ideas)
+        * [Project Grading](#project-grading)
 * [Schedule](#schedule)
 
 ## Class and People
@@ -235,9 +238,104 @@ There are 10 assignments, thus you get 25 points from assignments.
 
 ### Term Project
 
-**Under construction.**
+The term project involves doing something to further your teaching outside of the classroom.
+
+#### Background
+
+In the past, this project was split into two different tracks.
+TAs who were leading discussions this quarter would have me observe them and give feedback on their discussions.
+Those who weren't leading discussions would do something to further their teaching.
+
+Unfortunately, with the move to online teaching this quarter, observing discussions becomes a lot more difficult.
+Given how little experience I have with online teaching, it's hard for me to recommend things to improve on.
+Thus, I won't be making it a mandatory part of this class.
+Instead, everyone will have the same assignment of furthering their teaching.
+
+That said, I'm still willing to observe discussions this quarter if you'd like me to.
+Email me if you'd like me to do so and we can set something up.
+These extra observations would not have any bearing on the class.
+
+#### Project Ideas
+
+Some of the ideas that I have are below.
+If you are going to use one of my ideas, you don't need pre-approval.
+
+##### CERD
+
+*Computing Education Research at Davis* (CERD) is a relatively new seminar, founded by Aakash Prabhu (another graduate student who is teaching this quarter) and myself last quarter.
+The focus is upon the study and teaching of computer science, though the topic will vary from week to week.
+Check out [CERD's flyer](https://docs.google.com/document/d/1NlbCjeWVCvgvbD3jhSD29_-zBkY4KJFNCG6-gHN88YU) if you want to learn more about what we do.
+You will need to be logged in to your UC Davis account to access the flyer.
+
+Each of our meetings is about 50 minutes long.
+To maintain parity with the rest of the ideas, *you will need to attend two of our meetings this quarter*.
+After attending each meeting, write a review of the meeting.
+Each review should be about half a page long, and contain the following paragraphs:
+
+1. A summary of the presentation and discussion, and any key insights or implications
+2. Your own thoughts about the presentation, particularly anything that stood out or resonated with you
+
+You will also need to submit proof that you attended the meeting.
+I'll be on the lookout for students during the meeting, but you may want to message me during the meeting to confirm your attendance.
+Another way to do so would be to screenshot the meeting screen with your name in the participants window.
+
+##### CEE Workshops
+
+The [Center for Educational Effectiveness](https://cee.ucdavis.edu/) (or CEE) promotes and supports effective learning for all UC Davis students.
+You're probably already met them at TA orientation, if you've attended it.
+
+CEE holds workshops every quarter on a variety of topics to help you improve your teaching.
+Another idea would be to attend a CEE workshop, and write a short paragraph on what you learned there.
+Note that CEE hasn't posted any workshops on their website yet, so I'm not sure if they'll be holding any this quarter.
+If they do, it'll probably be on Zoom, and I will update this paragraph to indicate where to find them.
+
+Typically the CEE workshops are 1.5 - 2 hours long.
+After attending one of their workshops, write a review of the workshop.
+The review should be about half a page long, and contain the following paragraphs:
+
+1. A summary of the workshop, and any key insights or implications
+2. Your own thoughts about the workshop, particularly anything that stood out or resonated with you
+
+Note that you need to register ahead of time on each event's page.
+You will need to attach a screenshot of the registration confirmation email that you get from CEE to prove you attended the workshop.
+
+##### Peer-Reviewed Paper Review
+
+Another option that may be better if you'd prefer something asynchronous would be to do a paper review.
+Read through a paper on computer science education and write a paper review on what it was about and what you learned.
+If you need some help finding conferences, any conference under the umbrella of the [Association of Computing Machinery](https://www.acm.org/)'s [Special Interest Group on Computer Science Education](https://sigcse.org/sigcse/) is acceptable:
+
+  * [SIGCSE Technical Symposium](https://dl.acm.org/conference/sigcse)
+  * [Innovation and Technology in Computer Science Education (ITiCSE)](https://dl.acm.org/conference/iticse)
+  * [International Computing Education Research (ICER)](https://dl.acm.org/conference/icer)
+
+If there's another conference that falls under the same purview, email me to ask if it's acceptable.
+Also note that these need to be full conference papers.
+They'll be around 7-10 pages, typically, if not more.
+If you're unsure if the paper is a full conference paper, please email me to confirm.
+
+The entire paper review should be approximately a page, single spaced.
+Your paper review should contain the following paragraphs:
+
+1. A description of the research problem, in your own words
+2. A summary of the author's or authors' methodology
+3. The results of the paper, and directions for future work
+4. Your thoughts about the paper, particularly anything that stood out or resonated with you
+
+##### Your Own Idea
+
+The ideas above don't require prior approval.
+That said, I'm open to other ideas that will improve your teaching.
+
+If you would like to suggest something else that you want to do for the term project, please email me to discuss terms.
+I'll work with you to set up something that's agreeable to both of us.
+Generally, as long as it's something that will improve your teaching and has a similar time commitment to the other ideas above (approximately 2-3 hours) then I'll be okay with it.
+*Please email me first* to get permission before doing your own thing, though.
+
+#### Project Grading
 
 You can get up to 15 points for the term project.
+If your submission is not up to my standards, I will give you a chance to resubmit rather than giving you a lower grade.
 
 ## Schedule
 
