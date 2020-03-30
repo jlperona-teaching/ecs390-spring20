@@ -62,7 +62,7 @@ The password for each meeting is listed on [the Canvas site's home page](https:/
 ### Schedule
 
 See the [official schedule](./schedule.csv) here on GitHub for the course schedule.
-For more details on what we're going to cover each week, see the [seminar notes](../seminars/README.md).
+For more details on what we're going to cover each week, see the [seminar notes](../seminars).
 
 ### Required Technology
 

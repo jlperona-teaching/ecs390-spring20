@@ -75,7 +75,7 @@ I'll also introduce the course websites, the grading policy, and the assignments
 
 *Preparing for next week and beyond.*
 
-### Reading
+### Experience with Online Teaching
 
 On [Canvas](https://canvas.ucdavis.edu/courses/461800), you'll have an assignment every week.
 The assignment is *usually* due at 15:00 on the following Tuesday.
@@ -100,4 +100,4 @@ It talks about methods used at a variety of universities across the United State
 
 You don't need to write a summary or review for this paper.
 However, I would like you to review it, as it has links to resources for TAs at other universities across the United States.
-Also, Heather Bon-Parry's position statement describes the [*MaGE Program*](https://sites.google.com/mtholyoke.edu/mage-training-curriculum/home), which is what this class is based in part on.
+Also, Heather Bon-Parry's position statement describes the [*MaGE* Program](https://sites.google.com/mtholyoke.edu/mage-training-curriculum/home), which is what this class is based in part on.
