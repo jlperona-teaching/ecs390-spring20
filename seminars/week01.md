@@ -1,10 +1,13 @@
 ---
 Author: Justin Perona
+Copyright: © Justin Perona 2020
+License: CC BY-NC 4.0
 ---
 
 # Week 1
 
 Welcome to ECS 390, The Teaching of Computer Science.
+This week is a trial run—a "transitory" week, as the university puts it.
 **Under construction.**
 
 Some of the content for this week was derived from the [*MaGE* Resources](https://sites.google.com/mtholyoke.edu/mage-training-curriculum/home) provided by the *MaGE* Program.

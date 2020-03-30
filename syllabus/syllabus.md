@@ -1,6 +1,6 @@
 ---
 Author: Justin Perona
-Copyright: © 2020 Justin Perona
+Copyright: © Justin Perona 2020
 License: CC BY-NC 4.0
 ---
 
@@ -45,6 +45,7 @@ See the [LICENSE](https://github.com/jlperona-teaching/ecs390-spring20/blob/mast
 *Tuesdays*: 16:10 - 17:00, online via Zoom
 
 Check [the Zoom tab on Canvas](https://canvas.ucdavis.edu/courses/461800/external_tools/7164) for a link to each week's Zoom meeting.
+The password for each meeting is listed in the first announcement on the [Announcements tab](https://canvas.ucdavis.edu/courses/461800/announcements).
 
 ### Required Technology
 
@@ -91,7 +92,7 @@ I focused on practical teaching experience in the first half of the class, then 
 My hope was that the course would prove useful to instructors across the spectrum of prior teaching experience.
 
 This fourth iteration follows the third in its goals.
-However, given what's currently happening in the world and here at UC Davis, there will be a bigger focus on online teaching.
+However, given what's currently happening in the world and here at UC Davis, there will be a bigger focus on online teaching this time.
 
 ### Official Description
 
@@ -117,6 +118,9 @@ You can find the official UC Davis policy on the [Office of Student Support and 
 You are expected to cite all of the work you reference.
 Any ideas that are not specifically yours or generally known should have a citation.
 When in doubt, cite.
+
+Distributing any recordings of class meetings will be considered academic misconduct.
+See the [Zoom section below](#zoom) for more information.
 
 Any violations of this policy will result in reporting the violating student(s) to the Office of Student Support and Judicial Affairs.
 This can result in a 0 on the assignment or a U in the class.
@@ -148,6 +152,7 @@ My email is listed [above](#instructor).
 
 Zoom will serve as our platform for the seminars.
 Check [the Zoom tab on Canvas](https://canvas.ucdavis.edu/courses/461800/external_tools/7164) for a link to each week's Zoom meeting.
+The password for each meeting is listed in the first announcement on the [Announcements tab](https://canvas.ucdavis.edu/courses/461800/announcements).
 
 Note that due to the discussion-based participatory nature of this class, I will *not* be recording the seminars.
 Recording these seminars would be allowed with prior notice [according to campus counsel](https://keepteaching.ucdavis.edu/teach).
@@ -155,6 +160,10 @@ That said, we will be discussing some sensitive topics, and I don't want anyone'
 As [Kathy Obear](https://drkathyobear.com/) mentions in her *Suggested List of Learning Guidelines*:
 
 > The wisdom you get from this class can leave the room, but people's words stay here.
+
+While you can record the seminars on your own—I cannot prevent you from doing so—*distributing any recordings will be considered academic misconduct and reported to OSSJA*.
+Leave people's words inside the meeting.
+Furthermore, I own the copyright to any lecture recordings, so you can get in trouble there as well.
 
 ### GitHub
 

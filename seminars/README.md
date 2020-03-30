@@ -1,3 +1,9 @@
+---
+Author: Justin Perona
+Copyright: © Justin Perona 2020
+License: CC BY-NC 4.0
+---
+
 # Seminars
 
 This folder contains the schedule for each week's seminar.
