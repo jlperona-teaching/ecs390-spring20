@@ -86,6 +86,8 @@ For [this week's assignment](https://canvas.ucdavis.edu/courses/461800/assignmen
 
 We will be talking about how to get started with online teaching next week, but I would like to see how many of you have had experience with online teaching already, and to what extent.
 
+### Grading
+
 As long as you respond to the question appropriately, you'll get credit.
 
 ### Reading for Next Week
@@ -95,7 +97,7 @@ This panel was originally slated to occur in the *ACM Technical Symposium on Com
 Unfortunately—as I found out two weeks ago in person—the conference was cancelled due to a ban on large gatherings in Oregon.
 
 You can find a PDF in the [Files section on Canvas](https://canvas.ucdavis.edu/files/8341146/download?download_frd=1).
-This is a short 2-page paper that describes the outline behind that panel.
+This is a short two-page paper that describes the outline behind that panel.
 It talks about methods used at a variety of universities across the United States to teach TAs how to teach.
 
 You don't need to write a summary or review for this paper.
