@@ -12,7 +12,7 @@ From there, we will segue into tips and resources for remote instruction.
 
 Some of the content for this week was derived from the [*MaGE* Resources](https://sites.google.com/mtholyoke.edu/mage-training-curriculum/home) provided by the *MaGE* Program.
 
-## Purpose of Teaching Assistants [20 min]
+## Purpose of Teaching Assistants [15 min]
 
 *What hats do TAs wear?*
 
@@ -46,199 +46,48 @@ Here's a couple of questions I can think of:
 
 I don't necessarily have an answer for these myself, but I'm curious what you think.
 
-## Getting Started with Remote Instruction [25 min]
+## Introduction to Remote Instruction [10 min]
 
-*Tips and tricks to make Zoom tick.*
+*What's the difference between remote instruction and online learning?*
 
-### Introduction
+### Interlude
 
-**This section is still under construction.**
+After this brief introductory section, we will talk about getting started with *remote instruction* on Zoom.
+Some of these recommendations may be applicable to tools outside Zoom, but since Zoom is the one that UC has a contract with for video conferencing, we'll stick to that one.
 
-[Remote instruction versus online learning.](https://keepteaching.ucdavis.edu/teach/planning-remote-instruction/remote-instruction-vs-online-learning)
+### Remote Instruction versus Online Learning
 
-Slides from the UC Davis Department of Psychology's [training meeting for their TAs](https://www.dropbox.com/s/miejilg32ooa0k9/Zoom%20Training%20Meeting%20for%20Psych%20TAs.pdf?dl=0).
+I'd like to make a clarifying comment before we move any further.
+If you're wondering why "remote instruction" was italicized in the previous section, it's because "remote instruction" is different than "online learning."
+The difference is explained on [this page](https://keepteaching.ucdavis.edu/teach/planning-remote-instruction/remote-instruction-vs-online-learning) on UC Davis' *Keep Teaching* website, but it comes down to best practices.
+If we were moving to online teaching, we would try our best to use best practices for that online teaching and learning.
+There's been a lot of research done on determining those best practices, which differ from best practices for in-person teaching.
 
-### Acknowledgements
+Unfortunately, given the circumstances of our move online, many instructors don't have the time or resources to adequately implement best practices.
+Many of us are trying our best, but very few of us have done this before.
+I would assume the same applies to you.
+If you're teaching this quarter, *do your best, but don't expect to get everything perfect.*
+You will make mistakes, just as I'm sure I'll make mistakes trying to move this class online.
 
-Thanks to the following people for giving feedback on this portion of the document:
+### Zoom Training Slides
 
-* Aakash Prabhu
-* Eric Harrison
-* Zee Chen
+What I've written in the notes we'll go over in the next section assumes a bit of familiarity with Zoom already.
+I've tried to focus on the little "gotchas" that I found while working with Zoom.
 
-Thanks to the following people for helping us test out some features of Zoom:
+If you have very little experience with using Zoom as a host, I'd recommend going through the slides from the UC Davis Department of Psychology's [training meeting for their TAs](https://www.dropbox.com/s/miejilg32ooa0k9/Zoom%20Training%20Meeting%20for%20Psych%20TAs.pdf?dl=0).
+Some things that they mention in their slides are going to be slightly different for you, but in general.
 
-* James Jensen
-* Nan Ma
+## Tips for Zoom [20 min]
 
-### General Tips for Zoom
+*Tricks to make Zoom tick.*
 
-Tips in general for using Zoom as a TA.
+### Notes for Using Zoom
 
-#### Patience
+From here, we will move on to our main topic for today and talk about tips for Zoom.
+You can find these [in the notes subdirectory of this repository](../notes/tips-for-zoom.md).
 
-Ask students to be patient during this transition period.
-If it's hard on them to learn with this little notice, imagine how difficult it is for us to reconfigure to teach with that little notice!
-
-#### License and Downloading
-
-[ucdaviscoe.zoom.us](ucdaviscoe.zoom.us) is UC Davis College of Engineering's (CoE) portal.
-Department of Computer Science is inside CoE so use that one.
-Make sure you have your Zoom Pro license already by logging into Zoom.
-If not, ask your instructor to contact COE to add you.
-
-Once you have the license issues set up, you'll need to download Zoom if you want to host meetings.
-It's not necessary to download it if you're only going to be attending meetings, but I'd still recommend doing so anyway.
-
-#### Meeting Setup
-
-Recurring meeting set up through Canvas for your discussions or office hours.
-One-off meetings can be scheduled in the same way.
-Make sure it's visible on Canvas tab.
-You'll probably need to ask the instructor to set it up for you.
-
-#### Meeting Settings
-
-Set option to mute everyone on coming in.
-It's never a bad idea.
-Remember that **you as the host can always mute all.**
-
-You may want to consider enabling the ability for students to join before you do, but I think that this is generally a bad idea.
-This can enable Zoom-bombing.
-Students can also unmute themselves if the host isn't inside, so this might be a bad idea.
-If you enabled the ability for students to join before you, one of them becomes the host, which hammers the nail in the coffin.
-
-Enable the ability to add co-hosts in settings.
-If another TA or instructor joins your call, you can make them the co-host and they can do some of the management things.
-
-Enable the ability to allow breakout rooms.
-More on that below.
-
-Disable screen sharing on discussions so that only you can screen share.
-Partially for Zoom-bombing reasons, but also so that students don't share their code or answers.
-This option (and the mute all) gets overridden inside breakout rooms, so don't worry about meeting students individually and them not being able to share their screen or talk.
-
-#### Screen Sharing
-
-Webcam is optional, not truly necessary.
-Your face will be put to side when presenting something else, and students can control options on the cameras, so don't worry about that.
-
-Share Screen button at bottom to select a window to share, such as a PowerPoint.
-When sharing, hit "New Share" to change windows/screens.
-Might be useful to enable the annotate screen option (for yourself only), then you can draw on your PowerPoint or other presentation.
-
-Want to write?
-You have a few options.
-iPhone/iPad AirPlay is best if you have one of those.
-Otherwise, some form of tablet with a stylus makes drawing so much easier.
-
-Zoom also has a whiteboard option.
-Using this with a mouse is definitely difficult, though.
-
-#### Chat
-
-How do you use chat, and do you want to use it?
-Just depends, be consistent about it.
-
-Some instructors use it to get answers from students, but there is the participation markers (similar to the Raise Hand feature) and polls (which you need to enable in settings) that can also be used for that feature.
-
-Some instructors use it to ask for questions from students, but the Raise Hand feature is better about notifying the host that there's a question compared to attempting to constantly look at chat.
-Especially true if you're using an iPad or other table to scribe, since you can't see chat on there.
-
-Also prevent chat from becoming Twitch chat if you do decide to use the chat.
-This is a professional environment.
-You may need to remind students (or threaten to stop using the chat) if they behave inappropriately.
-Chat can get recorded much like the actual lecture so they should mind what they say.
-
-Remember you can also kick individual users if they're behaving inappropriately.
-
-#### Finishing a Meeting
-
-Make sure to end meeting for all once you leave unless a co-instructor is there.
-If you enabled the ability for students to join before you, one of them becomes the host, which is bad.
-You'll also want to make sure the recording gets ended, and ending the meeting will do that.
-
-### Discussions
-
-Tips specifically for leading discussions.
-
-#### Audio
-
-Make sure they can't unmute themselves in settings so that they don't interrupt you while you're leading the discussion.
-
-Other option is to allow students to unmute themselves and have them be honest about it, but wouldn't recommend this.
-Remember that **you as the host can always mute all.**
-
-#### Recording
-
-Option to record automatically to cloud which syncs to Canvas.
-Recordings are great for students who can't make it at the scheduled discussion time.
-
-Let students know lectures and discussions are being recorded inside the syllabus and at the beginning of each class session.
-CA is a two-party consent which means that you need to inform everybody when they're being recorded.
-FERPA protects recordings of students and you don't want to mess with that.
-
-#### Answering Student Questions
-
-Have student raise hands for them to ask a question.
-Raise hand button is in the participant box, same place you'd look to see if somebody is raising their hand.
-
-Person who raise hand moves up in participant list, first come first serve.
-When they raise hand, unmute them.
-Notification pops up asking them to unmute so it doesn't come by surprise.
-
-Once you've finished answering their questions, mute them again.
-You can't guarantee student mute themselves, but most are generally good about it.
-
-### Office Hours
-
-Tips specifically for leading office hours.
-
-#### Audio
-
-Up to you if you want students to have the ability so they **can** unmute themselves in the settings.
-Office hours should be less structured and more self-regulating than a discussion.
-Students are generally good about respecting boundaries here.
-You can always change this later in case it becomes a problem.
-It's up to you, though.
-
-#### Recording
-
-I **wouldn't** enable option to record automatically to cloud for office hours.
-Especially since personal stuff will probably be discussed or student answers shared.
-It's not a good idea.
-
-#### Answering Student Questions In A Group
-
-People can unmute themselves to talk, or they can raise hand to be unmuted.
-Just depends on what you selected earlier.
-Good for just answering questions normally that aren't private.
-
-You can enable the option to mute/hold/kick students who are being disruptive.
-
-#### Answering Student Questions Privately
-
-I mentioned earlier that you'll want to enable breakout rooms; this is why.
-Make sure to enable breakout rooms in the settings beforehand.
-You need to be the main host (not co-host) to use breakout rooms.
-
-Have Zoom automatically make a bunch of breakout rooms, say 10 or so.
-Make sure to assign students manually, not automatically, when doing so.
-Otherwise you'll assign everyone out of the main session, which you don't want.
-
-Sharing solutions or other private information with a single student?
-Time to use those breakout rooms.
-Manually assign a student you want to talk to individually to a breakout room.
-Also assign yourself to the breakout room.
-Breakout room overrides the typical settings on sharing screens and muting, so they should be able to share and talk immediately.
-
-Main session will continue to go on while you're in the breakout room.
-You can leave to main session once student is done.
-You may want another TA (basically, hold joint office hours) so that somebody else is in the room while you discuss privately with another student.
-Otherwise students will be confused as to why there's no TA inside the Zoom call!
-
-Waiting list is another option if you want to answer everything privately.
-Throughput on the waiting list is much lower, though.
+I'm a big supporter of open source materials.
+Feel free to make an issue or pull request here on GitHub in case you'd like to add anything and make these notes better.
 
 ## Other Resources for Remote Instruction [5 min]
 
