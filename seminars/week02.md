@@ -46,11 +46,11 @@ Here's a couple of questions I can think of:
 
 I don't necessarily have an answer for these myself, but I'm curious what you think.
 
-## Introduction to Remote Instruction [10 min]
+## Introduction to Remote Instruction with Zoom [30 min]
 
-*What's the difference between remote instruction and online learning?*
+*Tips and tricks to make Zoom tick.*
 
-### Interlude
+### Introduction
 
 After this brief introductory section, we will talk about getting started with *remote instruction* on Zoom.
 Some of these recommendations may be applicable to tools outside Zoom, but since Zoom is the one that UC has a contract with for video conferencing, we'll stick to that one.
@@ -67,7 +67,8 @@ Unfortunately, given the circumstances of our move online, many instructors don'
 Many of us are trying our best, but very few of us have done this before.
 I would assume the same applies to you.
 If you're teaching this quarter, *do your best, but don't expect to get everything perfect.*
-You will make mistakes, just as I'm sure I'll make mistakes trying to move this class online.
+You will make mistakes, just as I'm sure I'll make mistakes trying to move this class online, and that's okay.
+Given what's currently going on in the world, I think it's completely acceptable to not be perfect in your teaching right now.
 
 ### Zoom Training Slides
 
@@ -76,10 +77,6 @@ I've tried to focus on the little "gotchas" that I found while working with Zoom
 
 If you have very little experience with using Zoom as a host, I'd recommend going through the slides from the UC Davis Department of Psychology's [training meeting for their TAs](https://www.dropbox.com/s/miejilg32ooa0k9/Zoom%20Training%20Meeting%20for%20Psych%20TAs.pdf?dl=0).
 Some things that they mention in their slides are going to be slightly different for you, but in general.
-
-## Tips for Zoom [20 min]
-
-*Tricks to make Zoom tick.*
 
 ### Notes for Using Zoom
 
@@ -102,7 +99,7 @@ If you know of any other resources that you believe would be useful, please let 
 
 #### UC Davis Department of Psychology
 
-UC Davis' Department of Psychology has been standing out in terms of preparing their instructional staff for remote teaching, hence why it's first on the list of the resources.
+UC Davis' Department of Psychology has been standing out in terms of preparing their instructional staff for remote instruction, hence why it's first on the list of the resources.
 Their [plan for instructional continuity](https://sites.google.com/ucdavis.edu/ucdavis-psychology-plan-s2020/home) for Spring Quarter 2020 has been shared widely throughout the academic community here at UC Davis for its quality.
 You'll definitely want to have a look at this if you're teaching this quarter.
 
@@ -119,13 +116,13 @@ Of course, many other universities are doing the same thing and putting together
 Check out [this crowdsourced Google Spreadsheet](https://docs.google.com/spreadsheets/d/1VT9oiNYPyiEsGHBoDKlwLlWAsWP58sGV7A3oIuEUG3k) that contains links to other universities' pages on continuing to teach during this time.
 
 You may also want to check out this list of [*Resources for STEM Education Centers in Response to COVID-19*](https://serc.carleton.edu/StemEdCenters/news/236312.html) by the [*Network of STEM Education Centers*](https://serc.carleton.edu/StemEdCenters/index.html) at Carleton College.
-Specifically, the "disciplinary resources on teaching remotely" may be helpful for best practices on remote teaching.
+Specifically, the "disciplinary resources on teaching remotely" may be helpful for best practices on remote instruction.
 
 #### Keep Learning
 
 There's also resources specifically directed at students to [*Keep Learning*](https://keepteaching.ucdavis.edu/student-resources).
 You can forward this to the students in the class you're TAing for so that they can get help with any issues they're encountering.
-Also, all of you are students, so this may be worthwhile to read for the classes you're taking.
+Also, all of you are students, so this may be worthwhile to read for the classes you're taking yourself.
 
 ## Assignment for This Week
 

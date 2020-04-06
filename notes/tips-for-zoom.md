@@ -17,12 +17,13 @@ If you need help getting started from the ground up, check out [these slides fro
     * [Meeting Setup](#meeting-setup)
     * [Zoombombing and Security](#zoombombing-and-security)
     * [Meeting Settings](#meeting-settings)
-    * [Screen Sharing](#screen-sharing)
+    * [Webcams and Screen Sharing](#webcams-and-screen-sharing)
     * [Chat](#chat)
     * [Finishing a Meeting](#finishing-a-meeting)
 * [Discussions](#discussions)
     * [Audio During Discussions](#audio-during-discussions)
     * [Recording Discussions](#recording-discussions)
+    * [Discussion Breakout Groups](#discussion-breakout-groups)
     * [Answering Student Questions During Discussion](#answering-student-questions-during-discussion)
 * [Office Hours](#office-hours)
     * [Audio During Office Hours](#audio-during-office-hours)
@@ -46,7 +47,7 @@ If that's the case, imagine how difficult it is for us as instructors to complet
 
 > *[ucdaviscoe.zoom.us](ucdaviscoe.zoom.us) is UC Davis College of Engineering's (CoE) Zoom portal.*
 
-The Department of Computer Science is inside CoE, so you should use this one, assuming you have a TA position inside CS.
+The Department of Computer Science (CS) is inside CoE, so you should use this one, assuming you have a TA position inside CS.
 If you're working with a different department, then the link that you'll use will probably be different.
 
 > *Verify that you have a Zoom Pro license.*
@@ -75,14 +76,18 @@ I don't think that the TA role on Canvas allows you to make meetings on the Zoom
 
 ### Zoombombing and Security
 
-> *Anyone with the link to the meeting can join, unless you set a password.*
+> *Anyone with the link to a meeting can join, unless you set a password.*
 
-This can enable [Zoombombers](https://www.davisenterprise.com/local-news/a-tale-of-two-zoom-meetings-glitches-and-porn/).
-Here are a variety of resources that contain steps to prevent Zoombombing:
+[Zoombombers](https://www.davisenterprise.com/local-news/a-tale-of-two-zoom-meetings-glitches-and-porn/) have become more frequent now that using Zoom has become a bigger thing.
+Here are a variety of resources that contain steps to prevent Zoombombing that explain it far better than I can:
 
 * [this page from the UC Davis Department of Psychology](https://sites.google.com/ucdavis.edu/ucdavis-psychology-plan-s2020/zoom-bombing-other-mischief)
 * [this page from UC Davis IET](http://kb.ucdavis.edu/?id=2466)
 * [this post on the UC Santa Cruz subreddit](https://www.reddit.com/r/UCSC/comments/ftwn1h)
+
+Prevention is better than handling it during the meeting.
+That said, you should know how to kick participants who are being disruptive.
+You can kick individual participants in the Participants window by hovering over the participant, clicking on "More...", and selecting the option to remove them from the meeting.
 
 ### Meeting Settings
 
@@ -122,7 +127,7 @@ You want these for two reasons:
 * breaking students into smaller groups during discussions
 * meeting with students individually during office hours while still allowing the main meeting to go on as normal
 
-I'll talk more about each of these uses in the relevant sections below.
+I'll talk more about each of these uses in the relevant sections below for [discussions](#breakout-groups) and [office hours](#answering-student-questions-privately).
 
 > *Enable the option to allow only the host to share their screen.*
 
@@ -134,32 +139,39 @@ It also ensures that students don't share their code or answers to everybody ins
 Note that this option (and the option to prevent students from unmuting themselves) gets overridden inside breakout rooms.
 Don't worry about meeting students individually and them not being able to share their screen or talk.
 
-### Screen Sharing
+### Webcams and Screen Sharing
 
 > *A webcam is optional and not truly necessary.*
 
-Your face will be put to side when sharing your screen.
+You can enable or disable the ability for the host or participants to show their webcam (video in Zoom parlance) in the meeting settings in Canvas.
+It might be useful to prevent participants from showing video to prevent Zoombombing, but it's very easy to tell who's being disruptive via video, so I don't see it as a big problem.
+
+If you have a webcam, your face will be put to side when sharing your screen.
 Students can also control if and where they see your cameras, so don't worry about that.
 
 > *Click on the "Share Screen" button to select a window to share.*
 
 This is done in the meeting controls during a Zoom call.
 If you've moved your meeting controls, it might be elsewhere, but it's generally at the bottom.
-This allows you to present off things like PowerPoint presentations or a Firefox tab as I'm doing.
-When sharing, hit "New Share" at the bottom to change windows/screens.
+This allows you to present off windows like a PowerPoint presentation, or a whole screen if you want to display multiple things.
+When sharing, hit "New Share" at the bottom to change windows or screens.
 
-It may also be useful to enable the annotate screen option in the settings on the Zoom website.
-Doing so allows you to draw on your PowerPoint or other presentation.
+> *Consider enabling the option to allow annotations on shared screens.*
+
+This is done in the settings on the Zoom website.
+It may be useful to enable the annotate screen option to allow you to draw on your PowerPoint or other presentation.
 The "Annotate" button during a Zoom call is close to the "Share Screen" button in the meeting controls.
-Note that if you do this, you'll probably want to disallow participants to make annotations.
-The option is close.
+
+Note that if you do this, you'll probably want to disallow participants to make annotations to prevent them from being disruptive.
+The option to do so is close to the other two options.
+That ability to be disruptive may be a reason why you *wouldn't* want to consider enabling the annotation option.
 
 > *What if I want to write on something like a whiteboard?*
 
 You have a few options for scribing.
 For all of these, you're going to want a tablet with a stylus.
 Attempting to scribe with a mouse and keyboard is very difficult.
-If you don't have a tablet with a stylus, then I would recommend using a PowerPoint or presentation aid.
+If you don't have a tablet with a stylus, then I would recommend using a PowerPoint or other presentation aid over scribing.
 
 If you have an iPhone or iPad (preferably with a stylus) then Zoom's AirPlay integration is best. It's in the options when selecting a new screen to share.
 You can also scribe on other applications, such as Endnote or Microsoft OneNote.
@@ -169,19 +181,27 @@ Zoom also has a whiteboard option, but this must be enabled in the web settings.
 
 > *Do you want to use chat, and if so, how do you want to use it?*
 
-Just depends, be consistent about it.
+Using chat is tricky, mostly because I feel that it causes problems that you may not want to deal with.
+It's up to you to decide if it's worth using.
+There's other ways you can use chat, but the two I've listed below are the main two I've seen in terms of instructors using it as part of their teaching.
 
-Some instructors use it to get answers from students, but there is the participation markers (similar to the Raise Hand feature) and polls (which you need to enable in settings) that can also be used for that feature.
+Some instructors use chat to get answers from students when they ask a question.
+However, there are the participation markers in the Participants window that let you get answers to simple yes/no questions.
+The Polls feature (which you need to enable in the settings on the Zoom website) allow you to ask multiple-choice questions, and that may be useful as well.
+Finally, you can use the Raise Hand feature, which is right next to the participation markers, to call on an individual student if they have an answer.
 
-Some instructors use it to ask for questions from students, but the Raise Hand feature is better about notifying the host that there's a question compared to attempting to constantly look at chat.
-Especially true if you're using an iPad or other table to scribe, since you can't see chat on there.
+Some instructors use chat to ask for questions from students after they're done with a topic.
+That said, the Raise Hand feature is better about notifying the host that there's a question compared to attempting to constantly look at chat.
+This is especially true if you're using an iPad to scribe, since you can't see chat on there.
 
-Also prevent chat from becoming Twitch chat if you do decide to use the chat.
-This is a professional environment.
+> *Keep chat professional if you do decide to use it.*
+
+Don't let chat become Twitch chat if you do decide to use it.
+This is a professional environment, and your students should act like it.
 You may need to remind students (or threaten to stop using the chat) if they behave inappropriately.
-Chat can get recorded much like the actual lecture so they should mind what they say.
+Chat can get recorded in a similar manner to regular recordings, so they should mind what they say while using it.
 
-Remember you can also kick individual users if they're behaving inappropriately.
+Remember that you can also kick individual users if they're behaving inappropriately.
 
 ### Finishing a Meeting
 
@@ -194,6 +214,8 @@ Ending the meeting for everyone will do that.
 ## Discussions
 
 This section is specifically for when you're leading a discussion.
+
+**Under construction.**
 
 ### Audio During Discussions
 
@@ -212,6 +234,10 @@ Let students know lectures and discussions are being recorded inside the syllabu
 CA is a two-party consent which means that you need to inform everybody when they're being recorded.
 FERPA protects recordings of students and you don't want to mess with that.
 
+### Discussion Breakout Groups
+
+**Under construction.**
+
 ### Answering Student Questions During Discussion
 
 Have student raise hands for them to ask a question.
@@ -227,6 +253,8 @@ You can't guarantee student mute themselves, but most are generally good about i
 ## Office Hours
 
 This section is specifically for when you're leading office hours.
+
+**Under construction.**
 
 ### Audio During Office Hours
 
