@@ -225,40 +225,70 @@ Ending the meeting for everyone will do that.
 
 This section is specifically for when you're leading a discussion.
 
-**Under construction.**
-
 ### Audio During Discussions
 
-Make sure they can't unmute themselves in settings so that they don't interrupt you while you're leading the discussion.
+> *Disable the ability to allow students to unmute themselves.*
 
-Other option is to allow students to unmute themselves and have them be honest about it, but wouldn't recommend this.
-Remember that **you as the host can always mute all.**
+This is done in the Particpants tab during a Zoom call.
+Students should have been muted to start with, assuming you [followed my recommendation earlier](#meeting-settings).
+This ensures students can't unmute themselves and don't interrupt you while you're leading the discussion.
+
+The other option would be to allow students to unmute themselves.
+This requires your students to be self-regulating and honest about unmuting themselves, so I wouldn't recommend this.
+If you do so, remember that you as the host can always mute all.
+The options to do so is in the Participants window inside the Zoom meeting.
 
 ### Recording Discussions
 
-Option to record automatically to cloud which syncs to Canvas.
-This option can be enabled in the meeting setup.
-Recordings are great for students who can't make it at the scheduled discussion time.
+>  *Do you want your discussions to be recorded?*
 
-Let students know lectures and discussions are being recorded inside the syllabus and at the beginning of each class session.
-CA is a two-party consent which means that you need to inform everybody when they're being recorded.
-FERPA protects recordings of students and you don't want to mess with that.
+This is done in the meeting settings in Canvas.
+Recordings can automatically be uploaded to the cloud, which syncs to Canvas.
+These recordings are great for students who can't make it to the scheduled discussion time.
+Generally, you won't have a choice in this, and your instructor will decide whether discussions are going to be recorded.
+
+> *Make sure to let students know they're being recorded.*
+
+Your instructor should let students know that discussions are being recorded inside the syllabus.
+[Campus counsel has advised instructors](https://keepteaching.ucdavis.edu/teach/planning-remote-instruction) to inform students that students know they're being recorded at the beginning of each class session; this includes you as a discussion leader.
+This may be due to the fact that California is a [two-party consent state](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=PEN&sectionNum=637.).
+Also note that the [Family Educational Rights and Privacy Act (FERPA)](https://en.wikipedia.org/wiki/Family_Educational_Rights_and_Privacy_Act) protects recordings of students as well.
+Play it safe and let students know that they're being recorded every time you begin your discussion section.
 
 ### Discussion Breakout Groups
 
-**Under construction.**
+> *Make sure to have enabled breakout rooms.*
+
+I mentioned earlier that you'll want to enable breakout rooms; this is one of the reasons why.
+Make sure to enable breakout rooms in the web settings beforehand.
+You need to be the main host, and not a co-host, in order to use breakout rooms.
+
+> *Have students work together to solve a worksheet or other problem.*
+
+This is done in the meeting controls during a Zoom call.
+This is useful if you want to emulate the ability from an in-person discussion section to ask students to group together.
+Once students are worked together, they can work together on a worksheet or other problem.
+
+When you click on the "Breakout Rooms" button, tell Zoom to make a bunch of breakout rooms, depending on how many students you want per breakout room.
+Make sure to assign students automatically when doing so.
+Students will be grouped randomly if you pick "automatically," which requires the least amount of work on your part.
 
 ### Answering Student Questions During Discussion
 
-Have student raise hands for them to ask a question.
-Raise hand button is in the participant box, same place you'd look to see if somebody is raising their hand.
+> *Have students raise their hand (virtually) for them to ask a question.*
 
-Person who raise hand moves up in participant list, first come first serve.
-When they raise hand, unmute them.
-Notification pops up asking them to unmute so it doesn't come by surprise.
+The "Raise Hand" button is in the Participant tab.
+This is the same place you'd look to see if somebody is raising their hand.
 
-Once you've finished answering their questions, mute them again.
-You can't guarantee student mute themselves, but most are generally good about it.
+A student who raises their hand moves to the top of the participant list on your screen.
+This is first come, first serve.
+When you are ready to answer questions, unmute the student at the top who has their hand raised.
+A notification will pop up, asking them to unmute their microphone, so it doesn't come by surprise.
+
+Once you've finished answering a student's questions, make sure to mute them again.
+You can't guarantee that a student will appropriately mute themselves.
+Generally, I've seen that students are good about it, but in case a student doesn't, you'll want to do so yourself.
+They won't be able to unmute themselves again afterwards, assuming you've [set the appropriate option](#meeting-settings).
 
 ## Office Hours
 
@@ -307,7 +337,7 @@ Remember, you can always kick students from the meeting who are being disruptive
 
 > *Make sure to have enabled breakout rooms.*
 
-I mentioned earlier that you'll want to enable breakout rooms; answering student questions privately is one of the reasons why.
+I mentioned earlier that you'll want to enable breakout rooms; answering student questions privately is the other reason why.
 Make sure to enable breakout rooms in the web settings beforehand.
 You need to be the main host, and not a co-host, in order to use breakout rooms.
 
