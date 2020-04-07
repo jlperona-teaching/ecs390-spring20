@@ -46,7 +46,7 @@ Here's a couple of questions I can think of:
 
 I don't necessarily have an answer for these myself, but I'm curious what you think.
 
-## Introduction to Remote Instruction with Zoom [30 min]
+## Introduction to Remote Instruction and Zoom [35 min]
 
 *Tips and tricks to make Zoom tick.*
 
@@ -86,43 +86,10 @@ You can find these [in the notes subdirectory of this repository](../notes/tips-
 I'm a big supporter of open source materials.
 Feel free to make an issue or pull request here on GitHub in case you'd like to add anything and make these notes better.
 
-## Other Resources for Remote Instruction [5 min]
+### Other Resources for Remote Instruction
 
-*Further reading to help you improve your ability to teach remotely.*
-
-### Resource List
-
-To finish off today, I will briefly go over a list of resources for remote instruction and online teaching.
-I've been compiling this list from the vast amount of discussion that's been going on ever since universities started reacting to the current crisis.
-
-If you know of any other resources that you believe would be useful, please let me know and I'd be happy to add it to the list.
-
-#### UC Davis Department of Psychology
-
-UC Davis' Department of Psychology has been standing out in terms of preparing their instructional staff for remote instruction, hence why it's first on the list of the resources.
-Their [plan for instructional continuity](https://sites.google.com/ucdavis.edu/ucdavis-psychology-plan-s2020/home) for Spring Quarter 2020 has been shared widely throughout the academic community here at UC Davis for its quality.
-You'll definitely want to have a look at this if you're teaching this quarter.
-
-In particular, you're going to want to look at their [shared materials](https://sites.google.com/ucdavis.edu/ucdavis-psychology-plan-s2020/shared-materials).
-As I mentioned earlier, their [slides from the training meeting for their TAs](https://www.dropbox.com/s/miejilg32ooa0k9/Zoom%20Training%20Meeting%20for%20Psych%20TAs.pdf?dl=0) is probably the best place to get started or learn more about using Zoom.
-
-#### Keep Teaching
-
-UC Davis has created their own webpage for instructors to [*Keep Teaching*](https://keepteaching.ucdavis.edu/).
-This is focused upon "instructional resilience" and is meant more towards faculty, but there could be some helpful information on there for you to look over.
-You'll probably want to look at the [*Teach*](https://keepteaching.ucdavis.edu/teach) page in particular, since that's what you'll be doing.
-
-Of course, many other universities are doing the same thing and putting together their own pages for their instructional staff to keep teaching.
-Check out [this crowdsourced Google Spreadsheet](https://docs.google.com/spreadsheets/d/1VT9oiNYPyiEsGHBoDKlwLlWAsWP58sGV7A3oIuEUG3k) that contains links to other universities' pages on continuing to teach during this time.
-
-You may also want to check out this list of [*Resources for STEM Education Centers in Response to COVID-19*](https://serc.carleton.edu/StemEdCenters/news/236312.html) by the [*Network of STEM Education Centers*](https://serc.carleton.edu/StemEdCenters/index.html) at Carleton College.
-Specifically, the "disciplinary resources on teaching remotely" may be helpful for best practices on remote instruction.
-
-#### Keep Learning
-
-There's also resources specifically directed at students to [*Keep Learning*](https://keepteaching.ucdavis.edu/student-resources).
-You can forward this to the students in the class you're TAing for so that they can get help with any issues they're encountering.
-Also, all of you are students, so this may be worthwhile to read for the classes you're taking yourself.
+In [the same notes we just looked at](../notes/tips-for-zoom.md), I've also included a section on other resources for remote instruction.
+To finish today, we will go over those briefly in case you need additional assistance with teaching this quarter.
 
 ## Assignment for This Week
 

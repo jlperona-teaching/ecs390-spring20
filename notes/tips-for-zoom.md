@@ -11,12 +11,13 @@ If you need help getting started from the ground up, check out [these slides fro
 
 ## Table of Contents
 
-* [General Tips](#general-tips)
+* [Before You Get Started](#before-you-get-started)
     * [Patience](#patience)
     * [License and Downloading](#license-and-downloading)
-    * [Meeting Setup](#meeting-setup)
-    * [Zoombombing and Security](#zoombombing-and-security)
+    * [Setting Up Meetings](#setting-up-meetings)
     * [Meeting Settings](#meeting-settings)
+    * [Zoombombing and Security](#zoombombing-and-security)
+* [Inside the Call](#inside-the-call)
     * [Webcams and Screen Sharing](#webcams-and-screen-sharing)
     * [Chat](#chat)
     * [Finishing a Meeting](#finishing-a-meeting)
@@ -30,11 +31,15 @@ If you need help getting started from the ground up, check out [these slides fro
     * [Recording Office Hours](#recording-office-hours)
     * [Answering Student Questions in a Group](#answering-student-questions-in-a-group)
     * [Answering Student Questions Privately](#answering-student-questions-privately)
+* [More Resources for Remote Instruction](#more-resources-for-remote-instruction)
+    * [UC Davis Department of Psychology](#uc-davis-department-of-psychology)
+    * [Keep Teaching](#keep-teaching)
+    * [Keep Learning](#keep-learning)
 * [Acknowledgements](#acknowledgements)
 
-## General Tips
+## Before You Get Started
 
-This section is for using Zoom in general.
+This section covers things you should do and familiarize yourself with before making your first Zoom call.
 
 ### Patience
 
@@ -48,7 +53,7 @@ If that's the case, imagine how difficult it is for us as instructors to complet
 > *[ucdaviscoe.zoom.us](ucdaviscoe.zoom.us) is UC Davis College of Engineering's (CoE) Zoom portal.*
 
 The Department of Computer Science (CS) is inside CoE, so you should use this one, assuming you have a TA position inside CS.
-If you're working with a different department, then the link that you'll use will probably be different.
+If you're working with a different department, then the link that you'll use may be different.
 
 > *Verify that you have a Zoom Pro license.*
 
@@ -62,32 +67,17 @@ If not, you'll need to ask your instructor to contact CoE to add the license to 
 Once you have the license issues resolved, you'll need to download Zoom if you want to host meetings.
 It's not necessary to download it if you're only going to be attending meetings, but I'd still recommend doing so anyway.
 
-### Meeting Setup
+### Setting Up Meetings
 
 > *Make meetings visible for your students by setting up the meetings through the Zoom tab on Canvas.*
 
-Your instructor will need to enable the tab and integration, so ask them to do so if it isn't enabled already.
+Your instructor will need to enable the Zoom tab and integration, so ask them to do so if it isn't enabled already.
 Once you're on the tab, your instructor can set up a "recurring meeting" for your discussions or office hours.
 Your discussions and office hours will probably be at the same time every week, so this takes care of constantly making new meetings.
 One-off meetings, such as one-time office hours, can be scheduled in the same way.
 
 Note that I believe you'll need to ask the instructor to set up the meetings for you.
 I don't think that the TA role on Canvas allows you to make meetings on the Zoom tab, but I may be wrong.
-
-### Zoombombing and Security
-
-> *Anyone with the link to a meeting can join, unless you set a password.*
-
-[Zoombombers](https://www.davisenterprise.com/local-news/a-tale-of-two-zoom-meetings-glitches-and-porn/) have become more frequent now that using Zoom has become a bigger thing.
-Here are a variety of resources that contain steps to prevent Zoombombing that explain it far better than I can:
-
-* [this page from the UC Davis Department of Psychology](https://sites.google.com/ucdavis.edu/ucdavis-psychology-plan-s2020/zoom-bombing-other-mischief)
-* [this page from UC Davis IET](http://kb.ucdavis.edu/?id=2466)
-* [this post on the UC Santa Cruz subreddit](https://www.reddit.com/r/UCSC/comments/ftwn1h)
-
-Prevention is better than handling it during the meeting.
-That said, you should know how to kick participants who are being disruptive.
-You can kick individual participants in the Participants window by hovering over the participant, clicking on "More...", and selecting the option to remove them from the meeting.
 
 ### Meeting Settings
 
@@ -138,6 +128,25 @@ It also ensures that students don't share their code or answers to everybody ins
 
 Note that this option (and the option to prevent students from unmuting themselves) gets overridden inside breakout rooms.
 Don't worry about meeting students individually and them not being able to share their screen or talk.
+
+### Zoombombing and Security
+
+> *Anyone with the link to a meeting can join, unless you set a password.*
+
+[Zoombombers](https://www.davisenterprise.com/local-news/a-tale-of-two-zoom-meetings-glitches-and-porn/) have become more frequent now that using Zoom has become a bigger thing.
+Here are a variety of resources that contain steps to prevent Zoombombing that explain it far better than I can:
+
+* [this page from the UC Davis Department of Psychology](https://sites.google.com/ucdavis.edu/ucdavis-psychology-plan-s2020/zoom-bombing-other-mischief)
+* [this page from UC Davis IET](http://kb.ucdavis.edu/?id=2466)
+* [this post on the UC Santa Cruz subreddit](https://www.reddit.com/r/UCSC/comments/ftwn1h)
+
+Prevention is better than handling it during the meeting.
+That said, you should know how to kick participants who are being disruptive.
+You can kick individual participants in the Participants window by hovering over the participant, clicking on "More...", and selecting the option to remove them from the meeting.
+
+## Inside the Call
+
+This section covers topics that you'll need to be concerned with once you're inside a Zoom call.
 
 ### Webcams and Screen Sharing
 
@@ -302,14 +311,63 @@ Otherwise students will be confused as to why there's no TA inside the Zoom call
 Waiting list is another option if you want to answer everything privately.
 Throughput on the waiting list is much lower, though.
 
+## More Resources for Remote Instruction
+
+This section contains additional resources for remote instruction.
+I've been compiling this list from the vast amount of discussion that's been going on ever since universities started reacting to the current crisis.
+
+If you know of any other resources that you believe would be useful, please let me know and I'd be happy to add it to the list.
+
+### UC Davis Department of Psychology
+
+> *The UC Davis Department of Psychology has been standing out given the current situtaion.*
+
+In terms of preparing their instructional staff for remote instruction, the UC Davis Department of Psychology has been excelling, hence why it's first on the list of the resources.
+Their [plan for instructional continuity](https://sites.google.com/ucdavis.edu/ucdavis-psychology-plan-s2020/home) for Spring Quarter 2020 has been shared widely throughout the academic community here at UC Davis for its quality.
+You'll definitely want to have a look at this if you're teaching this quarter.
+
+In particular, you're going to want to look at their [shared materials](https://sites.google.com/ucdavis.edu/ucdavis-psychology-plan-s2020/shared-materials).
+As I mentioned earlier, their [slides from the training meeting for their TAs](https://www.dropbox.com/s/miejilg32ooa0k9/Zoom%20Training%20Meeting%20for%20Psych%20TAs.pdf?dl=0) is probably the best place to get started or learn more about using Zoom.
+
+### Keep Teaching
+
+> *UC Davis has created their own webpage for instructors to [Keep Teaching](https://keepteaching.ucdavis.edu/).*
+
+This is focused upon "instructional resilience" and is meant more towards faculty, but there could be some helpful information on there for you to look over.
+You'll probably want to look at the [*Teach*](https://keepteaching.ucdavis.edu/teach) page in particular, since that's what you'll be doing.
+
+> *Many other universities are doing the same thing.*
+
+There's no sense reinventing the wheel.
+Many other universities are putting together their own pages for their instructional staff to keep teaching.
+Check out [this crowdsourced Google Spreadsheet](https://docs.google.com/spreadsheets/d/1VT9oiNYPyiEsGHBoDKlwLlWAsWP58sGV7A3oIuEUG3k) that contains links to other universities' pages on continuing to teach during this time.
+
+> *STEM education centers are also a worthwhile resource.*
+
+You may also want to check out this list of [*Resources for STEM Education Centers in Response to COVID-19*](https://serc.carleton.edu/StemEdCenters/news/236312.html) by the [*Network of STEM Education Centers*](https://serc.carleton.edu/StemEdCenters/index.html) at Carleton College.
+Specifically, the "disciplinary resources on teaching remotely" may be helpful for best practices on remote instruction.
+
+### Keep Learning
+
+> *There's also resources specifically directed at students to [Keep Learning](https://keepteaching.ucdavis.edu/student-resources).*
+
+You can forward the page linked above to the students in the class you're TAing for so that they can get help with any issues they're encountering.
+It addresses a wide variety of topics, from lacking a suitable computer to some more complicated situations.
+
+Also, if you're reading this, you're presumably a student.
+This may be worthwhile to read for the classes you're taking yourself.
+
 ## Acknowledgements
 
-I didn't make these tips alone.
+> *I didn't make these tips alone.*
+
 Thanks to the following people for giving feedback on the next section of the document:
 
 * Aakash Prabhu
 * Eric Harrison
 * Zee Chen
+
+> *And it's hard to test features of Zoom on my own too.*
 
 Thanks to the following people for helping us test out some features of Zoom:
 
