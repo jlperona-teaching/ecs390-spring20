@@ -152,7 +152,8 @@ This section covers topics that you'll need to be concerned with once you're ins
 
 > *A webcam is optional and not truly necessary.*
 
-You can enable or disable the ability for the host or participants to show their webcam (video in Zoom parlance) in the meeting settings in Canvas.
+This is done in the meeting settings in Canvas.
+You can enable or disable the ability for the host or participants to show their webcam, or video in Zoom parlance.
 It might be useful to prevent participants from showing video to prevent Zoombombing, but it's very easy to tell who's being disruptive via video, so I don't see it as a big problem.
 
 If you have a webcam, your face will be put to side when sharing your screen.
@@ -263,53 +264,86 @@ You can't guarantee student mute themselves, but most are generally good about i
 
 This section is specifically for when you're leading office hours.
 
-**Under construction.**
-
 ### Audio During Office Hours
 
-Up to you if you want students to have the ability so they **can** unmute themselves in the settings.
+> *Do you want students to be able to unmute themselves?*
+
+This is done in the Participants window inside the Zoom meeting.
+It's up to you if you want students to have the ability to unmute themselves.
+Note that you should keep them muted upon entering the call, though.
+
 Office hours should be less structured and more self-regulating than a discussion.
-Students are generally good about respecting boundaries here.
-You can always change this later in case it becomes a problem.
+Students are generally good about respecting boundaries.
+Plus, you can always change this later in case it becomes a problem.
 It's up to you, though.
+
+Personally, I would treat office hours like a discussion and keep students muted unless they raise their hand.
+I think that it's less susceptible to abuse that way.
 
 ### Recording Office Hours
 
-I **wouldn't** enable option to record automatically to cloud for office hours.
-Especially since personal stuff will probably be discussed or student answers shared.
-It's not a good idea.
+> *Don't record office hours.*
+
+This is done in the meeting settings in Canvas.
+I wouldn't enable the option to record automatically to cloud for office hours.
+It's pretty likely that personal and sensitive topics will probably be discussed.
+Another issue that students may share their answers to questions, which you definitely wouldn't want recorded.
+It's not a good idea to record office hours at all.
+
+Note that you can't control if students make their own recordings of office hours.
+That said, if they distribute any of those recordings, those can be considered academic misconduct and reported to the [UC Davis Office of Student Support and Judicial Affairs](https://ossja.ucdavis.edu/).
+It's one thing to make a recording for their own use; it's another to *distribute those recordings they shouldn't have made in the first place.*
 
 ### Answering Student Questions In A Group
 
-People can unmute themselves to talk, or they can raise hand to be unmuted.
-Just depends on what you selected earlier.
-Good for just answering questions normally that aren't private.
+> *The exact mechanism depends on if students can unmute themselves.*
 
-You can enable the option to mute/hold/kick students who are being disruptive.
+Depending on your selection in the [Audio During Office Hours](#audio-during-office-hours) section, students can either unmute themselves to talk, or they can raise their hand to be unmuted.
+Answering questions in this fashion (where everyone can hear everyone else) is good for answering general questions that don't need to be private.
+
+Remember, you can always kick students from the meeting who are being disruptive.
 
 ### Answering Student Questions Privately
 
-I mentioned earlier that you'll want to enable breakout rooms; this is why.
-Make sure to enable breakout rooms in the settings beforehand.
-You need to be the main host (not co-host) to use breakout rooms.
+> *Make sure to have enabled breakout rooms.*
 
-Have Zoom automatically make a bunch of breakout rooms, say 10 or so.
+I mentioned earlier that you'll want to enable breakout rooms; answering student questions privately is one of the reasons why.
+Make sure to enable breakout rooms in the web settings beforehand.
+You need to be the main host, and not a co-host, in order to use breakout rooms.
+
+> *Breakout rooms are the best mechanism to talk to a student privately.*
+
+This is done in the meeting controls during a Zoom call.
+When you click on the "Breakout Rooms" button, tell Zoom to make a bunch of breakout rooms, say 10 or so.
 Make sure to assign students manually, not automatically, when doing so.
-Otherwise you'll assign everyone out of the main session, which you don't want.
+Otherwise you'll assign everyone out of the main session and into a bunch of smaller sessions, which you don't want to do.
 
-Sharing solutions or other private information with a single student?
+What happens when a student wants to share solutions or other private information?
 Time to use those breakout rooms.
-Manually assign a student you want to talk to individually to a breakout room.
-Also assign yourself to the breakout room.
-Breakout room overrides the typical settings on sharing screens and muting, so they should be able to share and talk immediately.
+Manually assign the student that you want to talk to individually to a breakout room.
+Once you have done so, assign yourself to the breakout room as well.
+Other students won't be able to join you, since you as the host control the breakout rooms.
+Also note that being in a breakout room overrides the typical settings on sharing screens and muting, so they should be able to share their screen and talk to you immediately.
 
-Main session will continue to go on while you're in the breakout room.
-You can leave to main session once student is done.
-You may want another TA (basically, hold joint office hours) so that somebody else is in the room while you discuss privately with another student.
-Otherwise students will be confused as to why there's no TA inside the Zoom call!
+The main session with the rest of the students will continue to go on while you're in the breakout room.
+You can return to the main session once you're done with the student.
+Because of this, you may want another TA or instructor inside the Zoom call, which would mean that you'd be holding joint office hours.
+This is so that somebody else is in the main room while you're inside the breakout room with another student.
+Otherwise, students may be confused as to why there's no TA inside the Zoom call!
 
-Waiting list is another option if you want to answer everything privately.
-Throughput on the waiting list is much lower, though.
+> *The waiting room is another option for talking to students individually.*
+
+This is done either in the settings on the Zoom website, or in the meeting settings in Canvas.
+If you enable the waiting room option on the Zoom website, it applies to all your meetings.
+If you want to have it apply to a specific meeting, then enable it inside the meeting settings in Canvas.
+
+The waiting room is another option if you want to answer everything privately.
+You can allow students in, one by one, to talk to you and you alone.
+Everyone else will receive a notification that they're inside the waiting room and that they're waiting for you to admit them.
+
+Note that the throughput on the waiting room mechanism is much lower than with the breakout rooms method.
+You'll only be interacting with one student at a time with the waiting rooms.
+If you feel that office hours mostly consists of students trying to ask you these types of questions, this option may be a viable alternative to the breakout rooms.
 
 ## More Resources for Remote Instruction
 
