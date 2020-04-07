@@ -250,8 +250,8 @@ Generally, you won't have a choice in this, and your instructor will decide whet
 > *Make sure to let students know they're being recorded.*
 
 Your instructor should let students know that discussions are being recorded inside the syllabus.
-[Campus counsel has advised instructors](https://keepteaching.ucdavis.edu/teach/planning-remote-instruction) to inform students that students know they're being recorded at the beginning of each class session; this includes you as a discussion leader.
-This may be due to the fact that California is a [two-party consent state](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=PEN&sectionNum=637.).
+[Campus counsel has advised instructors](https://keepteaching.ucdavis.edu/teach/planning-remote-instruction) to inform students so that they know they're being recorded at the beginning of each class session; "instructors includes you as a discussion leader.
+This may be due to the fact that California is a [two-party recording consent state](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=PEN&sectionNum=637.).
 Also note that the [Family Educational Rights and Privacy Act (FERPA)](https://en.wikipedia.org/wiki/Family_Educational_Rights_and_Privacy_Act) protects recordings of students as well.
 Play it safe and let students know that they're being recorded every time you begin your discussion section.
 
@@ -272,6 +272,9 @@ Once students are worked together, they can work together on a worksheet or othe
 When you click on the "Breakout Rooms" button, tell Zoom to make a bunch of breakout rooms, depending on how many students you want per breakout room.
 Make sure to assign students automatically when doing so.
 Students will be grouped randomly if you pick "automatically," which requires the least amount of work on your part.
+
+Once you're done allowing students to work together, there will be a button to close the breakout rooms and move everyone back into the main room.
+Use this feature once the amount of time you've allotted students to work together is up.
 
 ### Answering Student Questions During Discussion
 
@@ -305,10 +308,10 @@ Note that you should keep them muted upon entering the call, though.
 Office hours should be less structured and more self-regulating than a discussion.
 Students are generally good about respecting boundaries.
 Plus, you can always change this later in case it becomes a problem.
-It's up to you, though.
 
 Personally, I would treat office hours like a discussion and keep students muted unless they raise their hand.
 I think that it's less susceptible to abuse that way.
+It's up to you, though.
 
 ### Recording Office Hours
 
