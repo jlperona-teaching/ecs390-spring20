@@ -71,13 +71,16 @@ It's not necessary to download it if you're only going to be attending meetings,
 
 > *Make meetings visible for your students by setting up the meetings through the Zoom tab on Canvas.*
 
-Your instructor will need to enable the Zoom tab and integration, so ask them to do so if it isn't enabled already.
-Once you're on the tab, your instructor can set up a "recurring meeting" for your discussions or office hours.
+Your instructor will need to enable the Zoom tab and integration on Canvas, so ask them to do so if it isn't enabled already.
+
+Note that you don't need to make meetings via Canvas—you can also do this on the Zoom website.
+Meeting-specific settings can be modified in either place.
+I'd recommend making the meetings through Canvas as I think it's useful as an instructor and as a student to have all the class meetings in one place.
+Doing it this way also takes care of distributing the meeting links to students in your class; your students will be able to see the links on the Zoom tab in Canvas.
+
+Once you're on the tab, you can set up a "recurring meeting" for your discussions or office hours.
 Your discussions and office hours will probably be at the same time every week, so this takes care of constantly making new meetings.
 One-off meetings, such as one-time office hours, can be scheduled in the same way.
-
-Note that I believe you'll need to ask the instructor to set up the meetings for you.
-I don't think that the TA role on Canvas allows you to make meetings on the Zoom tab, but I may be wrong.
 
 ### Meeting Settings
 
