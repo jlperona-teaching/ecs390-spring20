@@ -378,6 +378,20 @@ Note that the throughput on the waiting room mechanism is much lower than with t
 You'll only be interacting with one student at a time with the waiting rooms.
 If you feel that office hours mostly consists of students trying to ask you these types of questions, this option may be a viable alternative to the breakout rooms.
 
+> *Remote support is an option for remote control of a student's computer.*
+
+This is done in the settings on the Zoom website.
+Remote support allows you to access a student's computer with their permission.
+You can use this in a variety of ways, such as highlighting code that you're looking at, or drawing a student's attention to a specific portion of their assignment.
+
+**Note:** be cautious about using this and only do so responsibly.
+Only use it in the way that the student allows you to do so.
+
+Also note that you can't have both remote support and breakout rooms enabled at the same time on Zoom.
+You also can't set it as a per-meeting setting, sadly.
+You'll need to go into the settings on the Zoom website and enable the appropriate option before starting a new meeting.
+Switching it during a meeting has no effect, in my experience.
+
 ## More Resources for Remote Instruction
 
 This section contains additional resources for remote instruction.
