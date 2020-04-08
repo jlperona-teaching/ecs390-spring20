@@ -426,15 +426,18 @@ This may be worthwhile to read for the classes you're taking yourself.
 
 ## Acknowledgements
 
-> *I didn't make these tips alone.*
+> *From where this document is right now…*
 
-Thanks to the following people for giving feedback on the next section of the document:
+Thanks specifically to Eric Harrison for giving detailed feedback on the document at multiple stages.
+
+> *…to where it was at the beginning…*
+
+Thanks to the following people for giving feedback on the draft form of the document:
 
 * Aakash Prabhu
-* Eric Harrison
 * Zee Chen
 
-> *And it's hard to test features of Zoom on my own too.*
+> *…many people helped me out along the way.*
 
 Thanks to the following people for helping us test out some features of Zoom:
 
