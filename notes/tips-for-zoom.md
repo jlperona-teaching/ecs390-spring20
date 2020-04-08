@@ -83,9 +83,9 @@ I don't think that the TA role on Canvas allows you to make meetings on the Zoom
 
 > *Enable the ability to mute everyone upon entering the call.*
 
-This is done in the meeting settings in Canvas.
+This is done in the meeting-specific settings in Canvas or on the Zoom website.
 It's never a bad idea to do so; students can always unmute themselves if you allow them to.
-Additionaly, as the host, you have the option to:
+Additionally, as the host, you have the option to:
 
 * mute all (helpful if someone's being disruptive)
 * prevent students from unmuting themselves (helpful if you're lecturing)
@@ -94,7 +94,7 @@ The options above are in the Participants window inside the Zoom meeting.
 
 > *Disable the ability to allow students to join before you do.*
 
-This is done in the meeting settings in Canvas.
+This is done in the meeting-specific settings in Canvas or on the Zoom website.
 It can be helpful, but I think that this is a bad idea for the following reasons:
 
 * it can enable Zoombombing
@@ -152,7 +152,7 @@ This section covers topics that you'll need to be concerned with once you're ins
 
 > *A webcam is optional and not truly necessary.*
 
-This is done in the meeting settings in Canvas.
+This is done in the meeting-specific settings in Canvas or on the Zoom website.
 You can enable or disable the ability for the host or participants to show their webcam, or video in Zoom parlance.
 It might be useful to prevent participants from showing video to prevent Zoombombing, but it's very easy to tell who's being disruptive via video, so I don't see it as a big problem.
 
@@ -229,7 +229,7 @@ This section is specifically for when you're leading a discussion.
 
 > *Disable the ability to allow students to unmute themselves.*
 
-This is done in the Particpants tab during a Zoom call.
+This is done in the Participants tab during a Zoom call.
 Students should have been muted to start with, assuming you [followed my recommendation earlier](#meeting-settings).
 This ensures students can't unmute themselves and don't interrupt you while you're leading the discussion.
 
@@ -242,7 +242,7 @@ The options to do so is in the Participants window inside the Zoom meeting.
 
 >  *Do you want your discussions to be recorded?*
 
-This is done in the meeting settings in Canvas.
+This is done in the meeting-specific settings in Canvas or on the Zoom website.
 Recordings can automatically be uploaded to the cloud, which syncs to Canvas.
 These recordings are great for students who can't make it to the scheduled discussion time.
 Generally, you won't have a choice in this, and your instructor will decide whether discussions are going to be recorded.
@@ -317,7 +317,7 @@ It's up to you, though.
 
 > *Don't record office hours.*
 
-This is done in the meeting settings in Canvas.
+This is done in the meeting-specific settings in Canvas or on the Zoom website.
 I wouldn't enable the option to record automatically to cloud for office hours.
 It's pretty likely that personal and sensitive topics will probably be discussed.
 Another issue that students may share their answers to questions, which you definitely wouldn't want recorded.
@@ -366,9 +366,9 @@ Otherwise, students may be confused as to why there's no TA inside the Zoom call
 
 > *The waiting room is another option for talking to students individually.*
 
-This is done either in the settings on the Zoom website, or in the meeting settings in Canvas.
-If you enable the waiting room option on the Zoom website, it applies to all your meetings.
-If you want to have it apply to a specific meeting, then enable it inside the meeting settings in Canvas.
+This is done either in the settings on the Zoom website, or in the meeting-specific settings in Canvas or on the Zoom website.
+If you enable the waiting room option in the settings on the Zoom website, it applies to all your meetings.
+If you want to have it apply to a specific meeting, then enable it inside the meeting-specific settings.
 
 The waiting room is another option if you want to answer everything privately.
 You can allow students in, one by one, to talk to you and you alone.
