@@ -386,9 +386,11 @@ If you feel that office hours mostly consists of students trying to ask you thes
 This is done in the settings on the Zoom website.
 Remote support allows you to access a student's computer with their permission.
 You can use this in a variety of ways, such as highlighting code that you're looking at, or drawing a student's attention to a specific portion of their assignment.
+It's similar to TeamViewer or other remote assistance software.
 
-**Note:** be cautious about using this and only do so responsibly.
-Only use it in the way that the student allows you to do so.
+**Note:** don't force students to have to use this to receive help.
+Some students would be uncomfortable with you remote controlling their computer.
+If a student allows you to do so, be responsible and only use it in ways that the student agrees upon.
 
 Also note that you can't have both remote support and breakout rooms enabled at the same time on Zoom.
 You also can't set it as a per-meeting setting, sadly.
