@@ -9,25 +9,33 @@ License: CC BY-NC 4.0
 This week's focus is on your responsibilities as a TA.
 We'll discuss some guidelines and responsibilities for being a TA in CS at UC Davis.
 
-## Teaching Assistant Guidelines and Responsibilities [50 min]
+## Term Project Details [10 min]
+
+*Your "big" assignment for this quarter.*
+
+### Background
+
+Before we move on to the main topic for today, I am going to briefly discuss the term project for this quarter.
+For background on what the term project is about, see [this section of the syllabus](https://github.com/jlperona-teaching/ecs390-spring20/blob/master/syllabus/syllabus.md#term-project).
+For ideas on what to do for the term project, see the [Furthering Your Teaching assignment](https://canvas.ucdavis.edu/courses/461800/assignments/446282) on Canvas.
+
+### Questions
+
+I will answer any questions you may have about the project.
+Once I have answered your questions, we will move on.
+
+## Teaching Assistant Guidelines and Responsibilities [40 min]
 
 *Guidance for teaching CS at UC Davis.*
 
-### Poll
-
-Before we continue, I want to see how many students have been or are currently TAs.
-Interestingly enough, this information (particularly on whether you've TAed in the past) isn't easily available, even to someone who is teaching a TA training course!
-I'll use the results to this question to tailor the next section appropriately.
-
-**Under construction.**
-
-Afterwards, I will collect the questionnaire and count them.
-When I have finished counting, I will reveal the results in the aggregate.
-
 ### Notes
 
-Now that we have some context, we're going to go over some guidelines and responsibilities for teaching CS here at UC Davis.
-This was originally developed by Sean Davis, who was a long-time lecturer here before retiring a couple of years ago (though you might see him around next quarter).
+Last week we discussed roles of a TA.
+Now that we have some context for what you do as a TA, we're going to go over some guidelines and responsibilities for teaching CS here at UC Davis.
+Note that these guidelines were written before the move to remote instruction, so some of these won't be applicable this quarter.
+That said, we're not going to be teaching remotely forever, so I think that it's still important to cover them.
+
+These notes were originally developed by Sean Davis, who was a long-time lecturer here before retiring a couple of years ago.
 I took his version of this and added some of my own observations and notes to it.
 You can find the PDF version of it [here on GitHub](../notes/teaching-guidelines-responsibilities.pdf).
 
