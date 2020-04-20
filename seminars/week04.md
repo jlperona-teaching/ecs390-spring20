@@ -16,11 +16,11 @@ If there's time, then we will have a longer discussion on these tools.
 
 ### Presenter
 
-**Under construction.**
+Our presenter this week is Matthew Butner, a Unit 18 Lecturer in Computer Science here at UC Davis.
+I've known him since 2014, when I was an undergraduate here at UC Davis.
 
-### Attendance
-
-**Under construction.**
+I will ask him about [*Mimir*](https://www.mimirhq.com/) and any other educational tools that he's used.
+From there, I'll let the discussion flow naturally.
 
 ## Educational Tools [if time]
 
@@ -37,7 +37,6 @@ There's plenty of them, but some of the ones I've heard of include:
 
 * [*GitHub Education*](https://education.github.com/) (note: this is different than the way I use GitHub for this class)
 * [*Kodethon*](https://www.kodethon.com/#/)
-* [*Mimir*](https://www.mimirhq.com/)
 * [*Plickers*](https://www.plickers.com/)
 * [*zyBooks*](https://www.zybooks.com/)
 
@@ -47,10 +46,10 @@ There's plenty of them, but some of the ones I've heard of include:
 
 ### Background
 
-Next week's class will involve you giving a five-minute presentation (along with time at the end to answer a question from everyone) in front of a group of four to five of your fellow students in the class.
+Next week's class will involve you giving a five-minute presentation in a breakout room of three to four other students in the class.
 The topic is completely up to you, though I ask that you keep it appropriate for a classroom environment.
-The people in your group will be giving anonymous feedback about your presentation.
-You will in turn give anonymous feedback about the presentations of the members of your group.
+The people in your group will be giving anonymous feedback about your presentation via a Google Form.
+You will in turn give anonymous feedback about the presentations of the members of your group via that same Google Form.
 
 If you remember from [last week's class](./week02.md), I said that I would spend two to three hours preparing for a single hour of lecture.
 Writing this document up was no exception.
@@ -59,11 +58,14 @@ I'm not expecting you to spend two to three hours preparing for this presentatio
 ### Assignment
 
 In the spirit of the above, tell me the topic that you are planning on presenting.
-Submit your topic in the [assignment for this week on Canvas](https://canvas.ucdavis.edu/courses/369850/assignments/372348).
+Submit your topic in the [assignment for this week on Canvas](https://canvas.ucdavis.edu/courses/461800/assignments/446268).
 This is all you need to submit on Canvas for this week.
 
-You will also need to put together slides.
-**Under construction.**
+You will also need to put together a set of slides or other presentation aid to help you present.
+PowerPoint or Google Slides makes the most sense, but if you'd prefer to use another mechanism, feel free.
+You'll need to share your screen in order to share your materials with the other students in the breakout room.
+Note that you do not need to submit these on Canvas for this week's assignment, but the feedback form will ask if each presenter used slides.
+*If it's clear from your group's feedback that you did not prepare slides, you may not receive credit for attendance next week.*
 
 Make sure you prepare for your presentation.
 The best way to do so is to practice by speaking out loud!
@@ -75,5 +77,6 @@ I will sometimes do a practice presentation two or three times to work out all t
 You will get credit for this week's assignment as long as you submit your topic by the due date.
 Regarding attendance for next week, you will get credit if you do the following:
 
-* make a good-faith effort on your presentation (as determined by your group's feedback).
-* turn in your filled-in feedback form (link distributed in class).
+* submit your feedback form on Google Forms (the link will be provided next week)
+* make a good-faith effort on your presentation (as determined by your group's feedback)
+* used a set of slides for your presentation (as determined by your group's feedback)
