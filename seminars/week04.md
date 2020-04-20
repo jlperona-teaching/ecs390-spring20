@@ -51,7 +51,7 @@ The topic is completely up to you, though I ask that you keep it appropriate for
 The people in your group will be giving anonymous feedback about your presentation via a Google Form.
 You will in turn give anonymous feedback about the presentations of the members of your group via that same Google Form.
 
-If you remember from [last week's class](./week02.md), I said that I would spend two to three hours preparing for a single hour of lecture.
+If you remember from [last week's class](./week03.md), I said that I would spend two to three hours preparing for a single hour of lecture.
 Writing this document up was no exception.
 I'm not expecting you to spend two to three hours preparing for this presentation, but I am expecting you to put some time in to prepare beforehand.
 
