@@ -25,13 +25,9 @@ You're a graduate student in computer science at UC Davis.
 You needed to have done well at your previous institution to get here, so you have probably found a system that works for you.
 
 For the next 10 minutes, you will brainstorm on how you learn.
-I will pass around a brainstorming paper to everyone.
-Write your name and student ID number on the brainstorming paper, as this will serve as the sign-in sheet for today.
-Then, write down your thoughts.
+I think that it would be best if you open up a Word document or something similar to write down your thoughts, but use whatever method works for you.
 You will not be graded on what you write.
 This is solely for your benefit and to help guide the discussion that follows.
-
-**Under construction.**
 
 ### Reflection Prompts
 
@@ -86,13 +82,13 @@ These examples focus on improving the accessibility of classes and how that can 
 #### Accessibility
 
 Take some time to come up with examples of ways that classes can be more accessible to a wider variety of students.
-I will write these on the board.
+I will write these down.
 
 #### Impact
 
 After we have come up with some examples to improve accessibility, we will go through each example in turn.
 For each of these examples, think about the impact that each may have on how a student feels in a class, and the impact that each could have on how well they learn.
-I will write these impacts on the board as well.
+I will write these impacts down as well.
 
 #### Personal Experiences
 
@@ -111,7 +107,6 @@ Once we complete the topic, I will ask why we covered UDL today right after disc
 There is a specific answer I am looking for, which is the one thing I hope that you take away from today.
 
 Finally, I'll ask if anyone has any questions before we finish for today.
-I will also collect the sign-in sheets that you were using for brainstorming earlier.
 
 ## Assignment for This Week
 
