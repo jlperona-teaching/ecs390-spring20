@@ -101,7 +101,7 @@ I will return each person's feedback next week after collating the information f
 
 Read through *Universal Design: Implications for Computing Education* by Sheryl Burgstahler of the University of Washington, Seattle.
 This was originally published in *ACM Transactions on Computing Education* in 2011.
-You can find a PDF in the [Files section on Canvas](https://canvas.ucdavis.edu/files/6661078/download?download_frd=1).
+You can find a PDF in the [Files section on Canvas](https://canvas.ucdavis.edu/files/8235250/download?download_frd=1).
 We will discuss the Universal Design for Learning (UDL) next week.
 
 ### Review
