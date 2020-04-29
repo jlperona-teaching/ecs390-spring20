@@ -54,7 +54,7 @@ After our mindset discussion, I'll introduce the concept of *self-efficacy*.
 #### Video
 
 Before we dive into the definition, we're going to watch a student video explaining it.
-This video is [available on Canvas](https://canvas.ucdavis.edu/files/6660865/download?download_frd=1).
+This video is [available on Canvas](https://canvas.ucdavis.edu/courses/461800/files/folder/Seminar%20Materials?preview=8235240).
 I believe that this video was made by a former student in the *MaGE* Program, but I'm not completely certain.
 
 #### Definition
@@ -71,15 +71,13 @@ People are less likely to attempt something with their full effort if their self
 
 ### Splitting into Groups
 
-For this exercise, we're going to split into groups of 3 to 4.
-Rearrange yourselves so that you can all discuss with each other.
+For this exercise, we're going to split into breakout rooms of 3 to 4.
+Since I cannot screen share to breakout rooms, I would suggest one person in each group screen share the scenario prompts.
 
-Read through the first scenario, which will be shown on the projector.
-Once everyone is done reading, respond to the discussion prompts below.
+Read through the first scenario below.
+Once everyone is done reading, respond to the discussion prompts for that scenario.
 Once you're done with the first scenario, proceed to the second one.
 I will announce when 7.5 minutes have passed; at that time, you should move on to discussion the second scenario.
-
-**Under construction.**
 
 ### Scenario 1
 
@@ -119,9 +117,6 @@ I know I won't be able to understand what's really going on, but I just need eno
 After 15 minutes, I will ask everybody to come back together.
 For the remaining 10 minutes, we will go through both scenarios.
 I will ask groups to share what they wrote down in response to the prompts.
-
-At the end of this topic, I will collect the papers that each group wrote on, as this is the attendance for today.
-I will ask if anyone forgot to sign in.
 
 ## General Discussion on Mindset and Self-Efficacy [15 min]
 
