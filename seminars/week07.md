@@ -148,7 +148,7 @@ If there's a lull, I'll ask the following, but we're not required to get to them
 
 Read through *Do students value feedback? Student perceptions of tutors’ written responses* by Melanie R. Weaver of Nottingham Trent University.
 This was originally published in *Assessment & Evaluation in Higher Education* in 2006.
-You can find a PDF in the [Files section on Canvas](https://canvas.ucdavis.edu/files/6660904/download?download_frd=1).
+You can find a PDF in the [Files section on Canvas](https://canvas.ucdavis.edu/files/8235244/download?download_frd=1).
 This leads into next week's material, where we will discuss feedback and what makes it effective.
 
 ### Review
