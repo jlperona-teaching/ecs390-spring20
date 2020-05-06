@@ -161,7 +161,7 @@ Your review should contain two short paragraphs:
 1. A short summary of the reading, and any key insights or implications.
 2. Your own thoughts about the reading. Anything that stood out or resonated with you, or a topic/question about it for next week.
 
-Submit your review in the [assignment for this week on Canvas](https://canvas.ucdavis.edu/courses/369850/assignments/372351).
+Submit your review in the [assignment for this week on Canvas](https://canvas.ucdavis.edu/courses/461800/assignments/458688).
 
 ### Grading
 

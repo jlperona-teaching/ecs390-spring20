@@ -115,7 +115,7 @@ Finally, I'll ask if anyone has any questions before we finish for today.
 ### Reading
 
 Read through Chapter 1 of *Mindset: The New Psychology of Success* by Carol Dweck of Stanford University.
-You can find a PDF in the [Files section on Canvas](https://canvas.ucdavis.edu/files/6660990/download?download_frd=1).
+You can find a PDF in the [Files section on Canvas](https://canvas.ucdavis.edu/files/8235243/download?download_frd=1).
 Also, you should go through the two questionnaires and figure out what type of mindset you have for both intelligence and personality.
 (If you're disappointed with the mindsets you got, re-read the last sentence of the chapter again.)
 
@@ -129,7 +129,7 @@ Your review should contain two short paragraphs:
 1. A short summary of the reading, and any key insights or implications.
 2. Your own thoughts about the reading. Anything that stood out or resonated with you, or a topic/question about it for next week.
 
-Submit your review in the [assignment for this week on Canvas](https://canvas.ucdavis.edu/courses/369850/assignments/372350).
+Submit your review in the [assignment for this week on Canvas](https://canvas.ucdavis.edu/courses/461800/assignments/446270).
 
 ### Grading
 
