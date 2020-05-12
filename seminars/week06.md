@@ -115,7 +115,7 @@ Finally, I'll ask if anyone has any questions before we finish for today.
 ### Reading
 
 Read through Chapter 1 of *Mindset: The New Psychology of Success* by Carol Dweck of Stanford University.
-You can find a PDF in the [Files section on Canvas](https://canvas.ucdavis.edu/files/8235243/download?download_frd=1).
+You can find a PDF in the [Files section on Canvas](https://canvas.ucdavis.edu/files/8235247/download?download_frd=1).
 Also, you should go through the two questionnaires and figure out what type of mindset you have for both intelligence and personality.
 (If you're disappointed with the mindsets you got, re-read the last sentence of the chapter again.)
 
