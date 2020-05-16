@@ -25,22 +25,18 @@ After that, I'll ask for any comments or questions on the reading.
 ### Slides
 
 Next, we'll go through some slides on effective feedback.
-You can find these slides in the [Files section on Canvas](https://canvas.ucdavis.edu/files/6660864/download?download_frd=1).
+You can find these slides in the [Files section on Canvas](https://canvas.ucdavis.edu/courses/461800/files/folder/Seminar%20Materials?preview=8235242).
 These slides were adapted from ones provided by the *MaGE* Program.
 
 After we go through the slides, I will ask for any questions about what we just talked about.
 
-## Discussing Effective Feedback [25 min]
+## Discussing Effective Feedback [20 min]
 
 *What do you think makes feedback effective?*
 
-### Poll
-
-**Under construction.**
-
 ### Discussion
 
-After the poll, we will discuss your interactions and feelings about feedback.
+After the slides, we will discuss your interactions and feelings about feedback.
 As a TA, part of your role may be giving feedback to students via grading, so if you serve in that capacity, you will influence the learning experiences that your students will have.
 
 ### Prompts
@@ -64,7 +60,7 @@ These examples were provided to me by Jason Lowe-Power of UC Davis.
 [This feedback rubric](https://canvas.ucdavis.edu/files/6660862/download?download_frd=1) from the [Students Assessing Teaching And Learning (SATAL) Program](https://cetl.ucmerced.edu/satal) from UC Merced provides some useful examples of what is useful feedback, and what isn't.
 You can also look at [this 3 minute video on the same topic on YouTube](https://www.youtube.com/watch?v=8-aaKMva4lc) from the SATAL Program as well.
 
-## What is Emotional Intelligence [10 min]
+## What is Emotional Intelligence [15 min]
 
 *A brief introduction to emotional intelligence.*
 
@@ -76,7 +72,7 @@ We'll have a brief discussion about what we think it means.
 ### Slides
 
 To finish today, we will go through some slides on EI.
-You can find these slides in the [Files section on Canvas](https://canvas.ucdavis.edu/files/6660863/download?download_frd=1).
+You can find these slides in the [Files section on Canvas](https://canvas.ucdavis.edu/courses/461800/files/folder/Seminar%20Materials?preview=8235238).
 These slides were adapted from ones provided by the *MaGE* Program.
 
 After we go through the slides, I will ask for any questions about what we just talked about.
@@ -87,8 +83,9 @@ After we go through the slides, I will ask for any questions about what we just 
 
 ### Reading
 
-Read through Chapter 3 of *Emotional Intelligence* by Daniel Goleman.
-You can find a PDF in the [Files section on Canvas](https://canvas.ucdavis.edu/files/6660881/download?download_frd=1).
+Read through *Emotional and social intelligence competence: Implications for instruction* by Vishal Arghode of Gannon University.
+This was originally published in the *International Journal of Pedagogies and Learning* in 2013.
+You can find a PDF in the [Files section on Canvas](https://canvas.ucdavis.edu/courses/461800/files/8998530/download).
 We started discussing emotional intelligence at the end of today, and we will finish discussing it next week.
 
 ### Review
@@ -101,7 +98,7 @@ Your review should contain two short paragraphs:
 1. A short summary of the reading, and any key insights or implications.
 2. Your own thoughts about the reading. Anything that stood out or resonated with you, or a topic/question about it for next week.
 
-Submit your review in the [assignment for this week on Canvas](https://canvas.ucdavis.edu/courses/369850/assignments/372352).
+Submit your review in the [assignment for this week on Canvas](https://canvas.ucdavis.edu/courses/461800/assignments/446271).
 
 ### Grading
 

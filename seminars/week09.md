@@ -49,17 +49,14 @@ If there's a lull, I'll ask the following, but we're not required to get to them
 
 ### Splitting Into Groups
 
-For this exercise, we're going to split into groups of 3 to 4.
-Rearrange yourselves so that you can all discuss with the other members of your group.
+For this exercise, we're going to split into breakout rooms of 3 to 4.
+Since I cannot screen share to breakout rooms, I would suggest one person in each group screen share the scenario prompts.
 
-The three scenarios below will be shown on the projector.
 Start with one scenario, and read through it.
 Once everyone is done reading, respond to the discussion prompts for that scenario.
 Once you're done with a scenario, move on to another one.
 Plan to take about 5 minutes for each scenario.
 I will announce when 5 and 10 minutes have passed; at that time, you should wrap up the discussion of your current scenario and move on to another one.
-
-**Under construction.**
 
 ### Scenarios
 
@@ -109,7 +106,7 @@ If you have a question or topic that you'd like to discuss further at the beginn
 Otherwise, if you don't have a question or topic to discuss further, write down something you've learned or gotten better at over the course of this class.
 *I will keep your responses anonymous, but I will use these as a talking point next time we meet.*
 
-Submit your question or response in the [assignment for this week on Canvas](https://canvas.ucdavis.edu/courses/369850/assignments/372353).
+Submit your question or response in the [assignment for this week on Canvas](https://canvas.ucdavis.edu/courses/461800/assignments/446272).
 
 ### Grading
 
