@@ -66,7 +66,7 @@ You can also look at [this 3 minute video on the same topic on YouTube](https://
 
 ### Introduction
 
-I'll ask if anybody has heard of emotional intelligence (EI) before.
+I'll ask if anybody has a definition for emotional intelligence (EI) that they'd like to share.
 We'll have a brief discussion about what we think it means.
 
 ### Slides

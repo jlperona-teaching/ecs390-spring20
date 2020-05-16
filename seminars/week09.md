@@ -79,7 +79,7 @@ When you meet with them in office hours, they make it clear that they do not fee
 #### Discussion Prompts
 
 There is not necessarily a single correct answer to any of these questions.
-In particular, there is no correct answer to the second one.
+In particular, there is no correct answer to the second one for any of the scenarios.
 
 * What factor might be contributing to this situation?
 * How does this situation make you feel?
@@ -91,9 +91,6 @@ After 15 minutes, I will ask everybody to come back together.
 For the remainder of the class, we will discuss each scenario.
 I will ask everybody for observations about the scenarios that they'd like to share.
 Depending on how the conversation flows, I may bring up my expectations of your behavior in each situation.
-
-At the end of class, I will collect the papers that each group wrote on, as this is the attendance for today.
-I will ask if anyone forgot to sign in.
 
 ## Assignment for This Week
 
