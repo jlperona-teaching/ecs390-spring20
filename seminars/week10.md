@@ -28,10 +28,13 @@ We're going to spend the first part of this final class talking about answers to
 
 ### Further Topics
 
-I will try my best to go through the following topics that you and your fellow students brought up in the last assignment.
-Some of these topics honestly deserve classes of their own, but I'll try my best to touch on all of them.
+I will try my best to go through the following topic that you and your fellow students brought up in the last assignment.
 
-**Under construction.**
+* examples of interactions between TAs and students, including but not limited to the ones below:
+
+    * when a student didn't get the grade they wanted in the course and is "arguing" for a higher grade
+    * when a student gets an answer wrong on an assignment or examination and is "arguing" for points
+    * when student(s) feel like they've carried their group and they feel that other students have done nothing
 
 ## Final Questions [if time]
 
@@ -50,7 +53,17 @@ It can be about topics that we've covered in this course, or something else that
 
 From the assignment from the previous week, people mentioned that they learned about the following topics:
 
-**Under construction.**
+* a variety of educational tools, including Mimir and illustrations
+* diversity, needs, and the humanity of your students
+* emotional intelligence and its importance as an instructor
+* giving good feedback to your students
+* learning and teaching styles, including active learning
+* reading non-technical papers, especially in the field of CS education
+* responding to students in a variety of situations
+* responsibilities and boundaries of being a TA
+* student mindsets, including fixed and growth
+* teaching remotely with Zoom in the age of COVID-19
+* Universal Design for Learning, inclusivity, and making your classes more accessible
 
 I'm glad to see that people learned a variety of things from this course!
 
