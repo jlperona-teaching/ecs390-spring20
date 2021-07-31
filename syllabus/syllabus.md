@@ -1,7 +1,7 @@
 ---
 Author: Justin Perona
 Copyright: © Justin Perona 2020
-License: CC BY-NC 4.0
+License: CC BY-SA 4.0
 ---
 
 # ECS 390 - The Teaching of Computer Science (online edition)
@@ -12,7 +12,7 @@ Inspiration for this course was drawn from the following people or programs:
 * *Sean Davis* of UC Davis for some of the course content
 * [*the MaGE program*](https://sites.google.com/a/mtholyoke.edu/mage-training/) at [Mount Holyoke College](https://www.mtholyoke.edu/) for some of the course content
 
-Content is licensed under CC BY-NC 4.0.
+Content is licensed under CC BY-SA 4.0.
 See the [LICENSE](https://github.com/jlperona-teaching/ecs390-spring20/blob/master/LICENSE) file for more information.
 
 ## Table of Contents

@@ -1,7 +1,7 @@
 ---
 Author: Justin Perona
 Copyright: © Justin Perona 2020
-License: CC BY-NC 4.0
+License: CC BY-SA 4.0
 ---
 
 # Notes
